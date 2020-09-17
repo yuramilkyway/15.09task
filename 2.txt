@@ -1,0 +1,1000 @@
+bury -- хоронить, прятать
+bus -- автобус
+bush -- куст
+bushes -- кусты !NEW!
+busily -- Деловито (TR!)
+business -- дело, бизнес, деловой
+businessmen -- бизнесмены (от businessman)
+bust -- бюст
+bustle -- суетиться, суматоха, суета
+busts -- Бюсты (TR!)
+busy -- занятый
+but -- но
+butcher -- мясник
+butler -- Дворецкий (TR!)
+butter -- масло
+button -- кнопка, пуговица
+buttons -- Кнопки (TR!)
+buy -- покупать, купить
+buyer -- покупатель
+buzz -- жужжать, гудеть, жужжание, гул
+buzzer -- (фабричный) гудок
+by -- по, при, путем
+bye -- пока (при прощании)
+byte -- Байт (TR!)
+bytes -- Байты (TR!)
+byword -- поговорка, олицетворение (не dictum)
+cab -- наемный экипаж, извозчик, такси
+cabbage -- капуста
+cabin -- каюта
+cabinet -- кабинет (не parlour)
+cable -- кабельный
+cache -- Тайник (TR!)
+cadence -- ритм, интонация
+caesar -- Каесар (TR!)
+cafe -- кафе
+cage -- клетка, кабина
+cages -- Клетки (TR!)
+cake -- торт
+cakes -- пироги !NEW!
+calamity -- стихийное бедствие, большое несчастье
+calculate -- рассчитывать, вычислять
+calculated -- Расчетный (TR!)
+caleb -- Калеб (TR!)
+calendar -- календарь
+calf -- слоненок, теленок, молодой кит
+call -- звонить, называть (call)
+called -- звонил, названный (от call)
+calling -- звонящий (от call)
+calm -- успокаивать
+calmly -- тихо, спокойно !NEW!
+cambridge -- Кембридж (TR!)
+came -- пришел (от come)
+camera -- фотоаппарат
+camp -- лагерь
+campaign -- компания, проводить кампанию
+can -- уметь, мочь
+cancel -- отменить, сократить
+candidate -- кандидат
+candle -- свеча
+candling -- Миражирование -ing (TR!)
+cane -- трость, палка
+canes -- Тростники(трости) (TR!)
+canned -- консервированный
+cannon -- пушка, орудие c-
+cannot -- не уметь (отрицательная форма глагола can)
+canoe -- челн, байдарка
+canteen -- столовая
+canvas -- холст, парус
+canyon -- Каньон (TR!)
+cap -- шапка
+capable -- способный
+capacious -- просторный, вместительный, объемистый
+capacity -- емкость, способность
+cape -- мыс
+capital -- столица
+capitalist -- капиталист, капиталистический
+captain -- капитан
+captive -- пленный
+captivity -- Захват (TR!)
+capture -- захват, поймать
+captured -- Захваченный (TR!)
+car -- машина
+caravan -- фургон
+carbon -- углерод
+carbonate -- Карбонат (TR!)
+card -- карточка
+cardboard -- картон
+cards -- карточки (от card)
+care -- заботиться, переживать
+career -- профессия, карьера
+careers -- профессии (от career)
+careful -- осторожный
+carefully -- осторожно, внимательно
+careless -- беззаботный
+cares -- заботится, переживает (от care)
+cargo -- груз
+caricature -- карикатура
+carla -- Карла (TR!)
+carlos -- Карлос (TR!)
+carpenter -- плотник
+carpet -- ковер, устилать
+carriage -- вагон
+carrier -- носильщик, транспортное средство
+carrot -- морковь
+carry -- нести, носить, возить
+carrying -- перевозка
+cart -- телега, повозка
+carter -- возчик; ломовой извозчик !NEW!
+carton -- коробка
+cartoon -- мультфильм
+carve -- вырезать, отрезать
+carved -- вырезанный (из дерева, из камня) !NEW!
+case -- случай, состояние
+cash -- деньги
+casks -- Бочки (TR!)
+cast -- бросать, ронять, менять
+castle -- замок (не железный, а каменный)
+casual -- случайный (не random)
+cat -- кошка
+catch -- уловить, понять, получить нагоняй
+catching -- Ловля (TR!)
+cathedral -- собор
+catherine -- Кэтрин (TR!)
+cats -- Коты (TR!)
+cattle -- (рогатый) скот
+caught -- ловил !NEW!
+cauldron -- Котел (TR!)
+cause -- дело, причина
+causing -- Порождение -ing (TR!)
+caution -- осторожность
+cautious -- осторожный
+cautiously -- осторожно !NEW!
+cave -- пещера
+cavern -- Пещера (TR!)
+cavity -- впадина, полость
+cease -- прекращать, останавливать
+ceased -- Прекратил (TR!)
+ceiling -- потолок
+celebrate -- праздновать
+celebrated -- праздновал (от celebrate)
+celebration -- празднование
+celebrity -- известность, знаменитость
+cell -- камера, ячейка
+cellar -- подвал, винный погреб
+cells -- Ячейки (TR!)
+cement -- цемент, основа
+cemetery -- кладбище
+cent -- цент
+center -- центр
+central -- центральный
+centre -- центр -re
+centuries -- Столетия (TR!)
+century -- столетие, век
+cereals -- хлебные злаки, зерновые
+ceremony -- церемония
+certain -- определенный, некоторый, некий c-
+certainly -- конечно
+certainty -- уверенность
+certificate -- справка, аттестат
+cessation -- прекращение (не interrupt)
+chain -- цепь
+chair -- стул
+chairman -- председатель
+chaise -- Фаэтон (TR!)
+chalk -- мел
+chalked -- Рисовавший мелом (TR!)
+challenge -- вызывать, вызов
+chamber -- палата
+chambers -- Палаты *h- (TR!)
+champagne -- шампанское
+champion -- чемпион
+championship -- чемпионат, звание чемпиона
+chance -- случай, шанс
+chances -- Возможности (TR!)
+change -- мелкие деньги, сдача, менять, пересаживаться
+changed -- поменял, изменил (от change)
+changes -- меняется (от change)
+changing -- Изменение(замена) (TR!)
+channel -- канал
+chap -- парень (разг.), малый c-
+chapter -- глава (книги)
+chapters -- Главы (TR!)
+char -- Случайная работа (TR!)
+character -- характер
+characteristic -- особенность
+charge -- плата, стоимость, взимать плату
+charges -- издержки, расходы (от charge)
+charity -- милосердие
+charles -- Чарльз (TR!)
+charley -- Чарли (TR!)
+charlotte -- Шарлотта (TR!)
+charm -- очарование
+charming -- очаровательный, прелестный
+charms -- Обаяния (TR!)
+chase -- охотиться, преследовать, погоня, охота
+chasing -- уклоняющийся (от chase)
+chat -- беседа, болтовня (не blab)
+chatter -- болтать, болтовня
+chatterbox -- болтунья
+chauffeur -- шофер
+cheap -- дешевый
+cheaply -- дешево, легко
+cheat -- обманывать, надувать, обманщик, плут c-
+check -- проверять, регистрировать
+checking -- Проверка (TR!)
+cheek -- щека
+cheeky -- развязный
+cheer -- настроение
+cheerful -- жизнерадостный, веселый с-
+cheerfully -- бодро !NEW!
+cheers -- да здравствует (приветственное восклицание)
+cheese -- сыр
+chemical -- химический
+chemist -- химик, аптекарь
+chemistry -- химия
+cheque -- банковский чек
+cherish -- лелеять
+cherries -- вишни (от cherry)
+cherry -- вишня
+chess -- шахматы
+chest -- грудь
+chestnut -- каштан
+chevy -- охота, погоня, гнаться (не chase)
+chew -- жевать
+chicken -- цыпленок, кура
+chief -- шеф, начальник
+chiefly -- главным образом
+child -- ребенок
+childhood -- детство
+childish -- детский, ребяческий
+children -- дети
+chill -- холод, простуда
+chilly -- холодный, сухой, чопорный
+chimney -- труба c-
+chin -- подбородок
+china -- фарфор
+chip -- обломок, осколок
+chisel -- резец, ваять, высекать
+chivalrous -- рыцарский
+chocolate -- шоколад
+choice -- выбор (c-, не choose)
+choked -- Забитый (TR!)
+choose -- выбирать c-
+chorus -- хор
+chose -- выбирал, выбрал (от choose)
+chosen -- выбранный (от choose)
+chris -- Крис (TR!)
+Christian -- христианский, христианин
+Christmas -- Рождество
+chronicle -- летопись, хроника, отмечать
+chuckled -- Хихикал (TR!)
+church -- церковь
+churchill -- Черчилл (TR!)
+churchyard -- кладбище
+cigar -- сигара
+cigarette -- сигарета
+cigarettes -- сигареты (от cigarette)
+cinema -- кино
+circle -- амфитеатр, круг
+circuit -- кругооборот, окружность
+circular -- круглый, реклама
+circulate -- повторяться, передаваться
+circulation -- кровообращение, тираж
+circumference -- окружность
+circumstance -- обстоятельство, условие
+circumstances -- обстоятельства, условия
+circumstantial -- обстоятельный, случайный
+circus -- цирк, арена
+citizen -- гражданин
+citizens -- Граждане (TR!)
+city -- город
+civil -- гражданский (-l)
+civilization -- цивилизация
+claim -- требовать
+claimed -- Требуемый (TR!)
+claims -- Требования (TR!)
+clamour -- шум, крики
+clamp -- складывать, скреплять (не brace)
+clank -- бряцать, хлопать в ладоши
+clap -- хлопать, аплодировать; удар, хлопок -p
+clash -- столкновение, конфликт
+clasp -- прижимать (к груди), обнимать, сжимать (в руке)
+clasped -- Сжатый (не от слов squeeze, tight) (TR!)
+class -- класс (не grade)
+classes -- занятия, уроки -- не lessons
+classic -- классический
+classroom -- класс
+clatter -- стук, звон; стучать, греметь
+clause -- предложение, статья
+claw -- коготь, клешня
+clay -- глина, земля
+clean -- чистить, чистый
+cleaned -- чистил, (по)чищенный (от clean)
+cleaning -- чистка
+cleanliness -- чистоплотность
+cleanup -- Уборка (TR!)
+clear -- ясный, светлый, очищать, расплатиться
+cleared -- рассчитался (от clear)
+clearing -- clearing (TR!)
+clearly -- ясно (не obvious)
+clench -- сжимать (кулаки, зубы)
+clenched -- Сжатый *l- (TR!)
+cleopatra -- Клеопатра (TR!)
+clergyman -- священник
+clerk -- чиновник
+clever -- умный
+click -- щелкать
+client -- клиент
+clients -- Клиенты (TR!)
+cliff -- утес, скала
+cliffs -- Утесы (TR!)
+climate -- климат
+climax -- кульминационный пункт
+climb -- подниматься, влезать
+cling -- цепляться, (при)льнуть
+clink -- звенеть, звон
+clip -- стричь, обрезать, зажимать (не trim)
+cloak -- плащ, камера хранения (багажа)
+clock -- часы (не watch)
+close -- закрывать(ся)
+closed -- закрыл, закрытый (от close)
+closely -- близко, тесно
+closet -- чулан
+closing -- заключительный
+closure -- закрытие
+cloth -- ткань
+clothe -- одевать
+clothes -- одежда
+clothing -- одежда, обмундирование
+cloud -- облако
+club -- клуб
+clue -- ключ (к разгадке), улика
+clumsy -- неуклюжий
+clung -- Цеплялся (TR!)
+cluster -- гроздь; скопляться, тесниться
+clutch -- захват (не snatch)
+co -- Компания (TR!)
+coach -- тренировать, инструктор
+coal -- уголь
+coarse -- грубый
+coast -- побережье
+coat -- пальто
+coats -- Пальто (TR!)
+coax -- уговаривать, задабривать
+cobbler -- сапожник
+cobweb -- паутина
+cock -- петух, задирать
+cocktail -- коктейль
+cocoa -- какао
+cocoon -- кокон
+code -- код
+coffee -- кофе
+cognomen -- прозвище, фамилия (не nickname)
+coil -- виток, катушка
+coin -- монета
+coincidence -- совпадение
+coins -- монеты (от coin)
+col -- Седло (TR!)
+cold -- холод, холодный
+colin -- Колин (TR!)
+collapse -- крушение, крах, рушиться, потерпеть крах
+collar -- воротник
+collation -- Сопоставление (TR!)
+collations -- Сопоставления (TR!)
+colleague -- коллега
+collect -- коллекционировать
+collected -- коллекционировал (от collect)
+collection -- коллекция
+collections -- собирание, выемка (от collection)
+collector -- сборщик, коллекционер
+college -- колледж
+collision -- столкновение
+colon -- двоеточие
+colonel -- полковник
+colonial -- колониальный
+colonize -- заселять, колонизировать
+colony -- колония
+color -- Цвет (TR!)
+colored -- Цветной (TR!)
+colorful -- красочный c-
+colour -- цвет
+coloured -- цветной
+colourful -- красочный
+colours -- цвета (от colour)
+column -- графа, отдел
+columns -- Колонки (TR!)
+comb -- гребенка, расчесывать, расчесать
+combat -- бой, борьба (не battle) c-
+combination -- комбинация, объединение
+combine -- объединять (не connect)
+combined -- Объединенный (TR!)
+come -- приходить, приезжать
+comedy -- комедия
+comely -- хорошенький, миловидный (не pretty, lovely)
+comer -- приходящий
+comfort -- удобство, утешение, утешать
+comfortable -- удобный
+comic -- кинокомедия, комический
+comics -- комиксы
+coming -- приход, приходящий (от come)
+comma -- запятая
+command -- приказ, управлять, приказывать
+commander -- командир, начальник
+commands -- Команды (TR!)
+commend -- хвалить
+comment -- комментарий, комментировать
+commerce -- торговля, коммерция -e
+commercial -- торговый
+commission -- комиссионные
+commit -- совершать (преступление)
+committed -- Совершенный(переданный) (TR!)
+committee -- комитет, комиссия
+common -- общий
+commonly -- обыкновенно, дешево, плохо
+commonplace -- банальность, общее место; банальный
+commotion -- смятение, волнение
+communicate -- сообщать, общаться
+communicated -- Сообщенный (TR!)
+communication -- сообщение, связь, общение
+community -- община
+compact -- компактный
+companion -- товарищ
+company -- компания, общество (company)
+comparable -- сравнимый
+comparative -- сравнительный, относительный
+comparatively -- Сравнительно (TR!)
+compare -- сравнивать
+compared -- сравнил (от compare)
+comparison -- сравнение
+compartment -- купе
+compass -- объем, диапазон; компас; циркуль
+compassion -- жалость, сострадание !NEW!
+compatibility -- совместимость !NEW!
+compelled -- Вынужденный (TR!)
+compete -- состязаться, конкурировать
+competition -- соревнование
+compile -- составлять
+complain -- жаловаться
+complaint -- жалоба
+complaints -- жалобы (от complaint)
+complete -- полный, законченный
+completed -- Законченный (TR!)
+completely -- совершенно, полностью
+completion -- завершение, окончание
+complex -- сложный, составной, комплексный
+complexion -- цвет лица
+complicated -- сложный
+complication -- сложность
+compliment -- комплимент
+compliments -- комплименты (от compliment)
+comply -- уступать, соглашаться
+component -- компонент
+compose -- сочинять, составлять
+composed -- спокойный
+composite -- составной, сложный
+composition -- сочинение, композиция
+composure -- спокойствие, самообладание
+compound -- составной -u**
+comprehend -- Постигать (TR!)
+comprehensive -- исчерпывающий, обширный
+compress -- компресс
+compromise -- компромисс
+computer -- компьютер
+con -- Подставить (TR!)
+conceal -- скрывать, утаивать
+concealed -- Скрытый (TR!)
+concede -- уступать, допускать
+conceit -- самомнение
+conceited -- самодовольный, тщеславный
+conceive -- постигать, понимать
+conceived -- Задуманный (TR!)
+concentrate -- сосредотачиваться
+concentration -- концентрация, сосредоточенность
+concept -- концепция, понятие, идея
+concern -- забота c-
+concerned -- заинтересованный, озабоченный, огорченный
+concerning -- относительно (не relatively) -ing
+concert -- концерт
+concession -- концессия
+conclude -- завершать, заключать
+concluded -- завершенный, законченный (не completed) !NEW!
+conclusion -- заключение
+conclusions -- Заключения (TR!)
+concrete -- бетон, сгущать, конкретный
+concussion -- сотрясение (мозга)
+condescending -- снисходительный -ing
+condition -- условие
+conduct -- вести, руководитель, проводить
+conducted -- Проводимый (TR!)
+conductor -- кондуктор
+cone -- конус, шишка (еловая)
+confer -- обсуждать, совещаться; вести переговоры с
+conference -- конференция, съезд
+confess -- признавать
+confessed -- Признанный (TR!)
+confession -- признание, исповедь
+confide -- доверять, полагаться, признаваться
+confidence -- доверие
+confident -- уверенный
+confidential -- конфиденциальный, доверчивый
+configuration -- Конфигурация (TR!)
+confined -- Ограниченный(заключенный) (TR!)
+confinement -- Заключение (TR!)
+confirm -- подтверждать, утверждать
+confirmed -- Подтвержденный (TR!)
+conflict -- конфликт, противоречить
+conform -- соответствовать, подчиняться
+confront -- стоять против
+confuse -- смущать, приводить в замешательство
+confused -- запутанный, смущённый !NEW!
+confusion -- смущение
+congratulate -- поздравлять
+congratulated -- поздравил (от congratulate)
+congratulations -- поздравления (от congratulation)
+conjecture -- догадка, предположение, предполагать
+conjure -- показывать фокусы
+connect -- соединять
+connecting -- Соединение -ing (TR!)
+connection -- соединение
+connections -- Связи (TR!)
+conquer -- завоевывать, завоевать
+conquered -- Побежденный (TR!)
+conquest -- завоевание, покорение
+conscience -- совесть, сознание
+conscientious -- добросовестный
+conscious -- сознающий, ощущающий
+consciousness -- сознание, сознательность
+consent -- разрешение
+consented -- Соглашался (TR!)
+consequence -- следствие, вывод, значение
+consequences -- Последствия (TR!)
+consequently -- следовательно, в результате
+conservative -- консервативный, консерватор
+consider -- считать
+considerable -- значительный c-
+considerably -- значительно (не tremendously)
+considerate -- внимательный (к другим), чуткий
+consideration -- рассмотрение, соображение
+considering -- Рассмотрение -ing (TR!)
+consist -- состоять
+consisted -- Состоял (TR!)
+consistent -- совместимый, согласующийся (не compatible)
+consists -- состоит (от consist)
+consolation -- утешение
+console -- утешать
+conspicuous -- заметный, выдающийся c-
+constant -- постоянный
+constantly -- постоянно
+constellation -- созвездие
+constitute -- назначать, учреждать
+constitution -- конституция
+constraint -- Ограничение (TR!)
+constraints -- Ограничения (TR!)
+construct -- строить, создавать
+construction -- строительство
+consulate -- консульство
+consult -- советоваться
+consultation -- консультация, совещание
+consume -- потреблять
+consumption -- потребление, расход
+contact -- устанавливать связь
+contain -- содержать, сдерживать
+containing -- Содержащий (TR!)
+contains -- Содержит (TR!)
+contemporary -- современный
+contempt -- презрение (не aversion)
+contend -- бороться, соперничать *o-
+content -- содержание
+contented -- Удовлетворенный (не satisfied) (TR!)
+contents -- содержание, содержимое, оглавление
+contest -- спор, соревнование, спорить
+context -- контекст, ситуация
+continent -- континент
+continental -- континентальный
+continual -- беспрестанный
+continually -- непрерывно
+continuation -- продолжение
+continue -- продолжать(ся)
+continued -- продолжал (от continue)
+continuous -- непрерывный
+contract -- договор, контракт
+contradict -- опровергать, противоречить
+contrary -- противоположный (не opposite)
+contrast -- противоположность, контраст
+contribute -- делать вклад, способствовать
+contribution -- вклад
+contributor -- сотрудник
+contrivance -- изобретение, приспособление
+contrived -- Изобретенный (TR!)
+control -- контроль, управление
+convalesce -- выздоравливать
+convenience -- удобство
+conveniences -- удобства (от convenience)
+convenient -- подходящий, удобный
+convention -- собрание, съезд
+conventional -- обычный, обусловленный
+conversation -- разговор, беседа
+conversion -- превращение, обращение
+convert -- превращать, обращать, конвертировать
+converted -- Преобразованный(конвертированный) (TR!)
+convey -- перевозить, передавать, сообщать
+conveyed -- Переданный (TR!)
+convict -- признать виновным, осудить
+conviction -- осуждение, убеждение, убежденность
+convince -- убеждать c-
+convinced -- убежденный
+convincing -- убедительный
+cook -- готовить, повар
+cooked -- готовил (от cook)
+cool -- прохладный, холодный
+cooler -- холоднее (от cool)
+cooling -- охлаждение -ing
+coolly -- Прохладно (TR!)
+coolness -- прохлада, хладнокровие
+cooperative -- кооперативный
+cope -- справиться, совладать
+copies -- Копии (TR!)
+copper -- медь
+copy -- копия, копировать
+copyright -- авторское право
+coral -- Коралл (TR!)
+cord -- шнур
+cordial -- сердечный
+core -- сущность, суть
+cork -- поплавок
+corn -- кукуруза
+corner -- угол
+corners -- Углы (TR!)
+correct -- исправлять, правильный
+correction -- исправление
+correctly -- правильно, верно
+correlation -- Корреляция (TR!)
+correspondence -- корреспонденция, переписка
+corresponding -- соответственный, соответствующий
+corridor -- коридор
+corrupt -- испорченный, развращенный, продажный
+corruption -- продажность
+cosmetic -- косметический
+cost -- стоить, стоил
+costume -- костюм
+cosy -- уютный
+cottage -- коттедж
+cotton -- хлопок, хлопчатобумажный
+couch -- кушетка
+cough -- кашель
+could -- мог, могли (бы)
+council -- совет, совещание (не counsel)
+councilman -- Член совета (TR!)
+counsel -- обсуждение, совет, решение, адвокат
+count -- считать, принимать во внимание
+countenance -- Самообладание(лицо) (TR!)
+counter -- прилавок, противостоять, противиться
+counteract -- противодействовать (не contradict)
+countless -- бесчисленный
+countries -- страны (от country)
+country -- страна
+countryside -- сельская местность
+county -- графство
+couple -- пара
+courage -- мужество, смелость
+courageous -- смелый, отважный
+course -- курс, блюдо
+court -- корт, двор
+courtyard -- двор
+cousin -- двоюродный брат
+cousins -- кузены !NEW!
+cove -- сооружать
+cover -- покрывало, крышка
+covering -- Покрытие (TR!)
+cow -- корова
+coward -- трус
+cowardly -- трусливый, малодушный
+crab -- краб
+crack -- попытка, проба, трещина
+cracker -- печенье, хлопушка
+crackle -- хрустеть, потрескивать
+cradle -- колыбель, убаюкивать
+craft -- искусство, судно
+craftsman -- ремесленник
+cram -- запихивать, пичкать, учить наспех, натаскивать (к экзаменам) -- не poke
+crane -- журавль, подъемный кран
+cranny -- скважина, трещина
+crash -- потерпеть крах, потерпеть крушение
+crashed -- Потерпел крах (TR!)
+crawford -- Кравфорд (TR!)
+crawl -- ползать (не creep)
+crawled -- Ползал (не от слова creep) (TR!)
+crazy -- безумный
+creak -- скрип, скрипеть
+cream -- сливки, крем
+create -- создавать
+created -- Созданный (TR!)
+creating -- Создание -ing (TR!)
+creation -- создание (похоже на creature)
+creator -- творец, создатель, автор
+creature -- творение, создание
+creatures -- Существа (TR!)
+credentials -- верительные грамоты, рекомендация
+credit -- кредит
+creep -- ползать, выползать
+creeper -- вьющееся растение
+creeping -- Ползающий (TR!)
+crept -- ползал !NEW!
+crescent -- полумесяц
+crest -- гребешок, хохолок, гребень (волны, горы)
+crevice -- трещина, расщелина
+crew -- судовая команда, экипаж
+cricket -- крикет (спорт.)
+cries -- Крики (TR!)
+crime -- преступление, преступность
+criminal -- преступник, уголовный
+crimson -- алый, малиновый (не scarlet)
+cringe -- раболепствовать
+cripple -- калечить, уродовать (не destroy, disable)
+crisis -- кризис, перелом (в ходе болезни)
+crisp -- хрустящий картофель
+critical -- критический
+criticism -- критика
+criticize -- критиковать
+crocodile -- крокодил
+crook -- крюк, крючок, поворот
+crooked -- кривой
+crop -- урожай
+cross -- пересекать
+crossing -- переход, пересечение
+crouch -- притаиться
+crouched -- Присел (TR!)
+crow -- ворона
+crowd -- толпа, толпиться
+crowded -- многолюдный
+crown -- корона
+crude -- сырой, необработанный
+cruel -- жестокий, беспощадный
+cruelty -- жестокость
+cruise -- морское путешествие (c-)
+crumb -- крошка
+crumble -- крошить(ся)
+crushed -- Сокрушенный (TR!)
+crust -- корка, кора
+cry -- кричать, восклицать
+crying -- кричащий (-ing) !NEW!
+crystal -- хрусталь
+cub -- детеныш (зверя)
+cubic -- кубический
+cuckoo -- кукушка
+cucumber -- огурец
+cucumbers -- огурцы (от cucumber)
+cuff -- наручники, лёгкий удар
+culprit -- обвиняемый, преступник (не accused)
+cultivate -- обрабатывать
+cultivated -- Выращенный (TR!)
+cultivation -- Культивирование (TR!)
+cunning -- хитрость, хитрый, коварный -ing
+cup -- чашка
+cupboard -- буфет
+cups -- чашки (от cup)
+curb -- сдерживать
+curdle -- свертываться (о молоке)
+cure -- лекарство, лечить c-
+curiosity -- любопытство, редкая вещь
+curious -- любознательный
+curiously -- странно (не strangely) !NEW!
+curl -- виться, завивать(ся); локон, завиток
+curled -- Вился (TR!)
+curls -- Завитки (TR!)
+currant -- коринка, смородина
+current -- течение, ток
+currently -- В настоящее время (TR!)
+curse -- проклятие
+cursor -- Курсор (TR!)
+curt -- краткий, сжатый, грубый
+curtain -- занавеска, занавес
+curtains -- занавески !NEW!
+curvature -- Искривление (TR!)
+curve -- изгиб, гнуть c-
+curved -- Изогнутый (TR!)
+cushion -- подушка
+custom -- обычай
+customary -- обычный
+customer -- клиент
+cut -- разрез, фасон (стрижки волос)
+cute -- изящный, прелестный
+cutting -- сокращение, урезание -ing
+cycle -- цикл, период
+cyclist -- велосипедист
+czar -- Царь c- (TR!)
+dad -- папа, отец
+dagger -- кинжал
+daily -- ежедневно
+dainty -- лакомство, деликатес
+dairy -- молочный магазин
+daisy -- маргаритка
+dalton -- Далтон (TR!)
+dam -- дамба, плотина
+damage -- повреждать, причинять ущерб
+dame -- дама, пожилая женщина (не lady)
+damp -- сырой, влажный
+dan -- Дэн (TR!)
+dance -- танцевать
+danced -- танцевал (от dance)
+dancing -- танцы -ing
+dandy -- нарядный, великолепный
+danger -- опасность
+dangerous -- опасный
+dangers -- Опасности (TR!)
+dangle -- качаться, подвешивать
+darcy -- Дарси (TR!)
+dare -- сметь, отважиться
+dared -- осмелившийся !NEW!
+daring -- смелость, отвага; смелый, отважный -ing
+dark -- темный, печальный
+darkened -- Затемненный *a- (TR!)
+darker -- Более темный (TR!)
+darkness -- темнота, мрак
+darling -- любимый, дорогой
+darn -- штопать
+darted -- Брошенный (не dashed) (TR!)
+darwin -- Дарвин (TR!)
+dash -- оттолкнуть, отбросить
+dashed -- брошенный !NEW!
+data -- данные, факты
+database -- База данных (TR!)
+databases -- Базы данных (TR!)
+date -- дата
+dates -- даты (от date)
+daughter -- дочь
+daughters -- дочери (от daughter)
+david -- Дэвид (TR!)
+dawn -- рассвет, светать
+day -- день
+daybreak -- рассвет
+daylight -- дневной свет
+days -- дни (от day)
+daytime -- дневное время
+dazed -- ошеломленный
+dead -- мертвый
+deadlock -- тупик, безвыходное положение
+deadly -- смертельно
+deaf -- глухой
+deal -- значительное количество
+dealing -- раздачаv -ing
+dean -- декан
+dear -- дорогой
+dearest -- Дорогой (не darling) (TR!)
+death -- смерть
+debate -- дебаты, спор, полемика
+debris -- обломки, развалины
+debt -- долг
+debts -- долги (от debt)
+decay -- гниение, разложение
+deceive -- обманывать
+deceived -- обманутый !NEW!
+December -- декабрь
+decency -- приличие, благопристойность
+decent -- приличный, скромный
+deception -- обман, хитрость -ion
+deceptive -- обманчивый
+decide -- решать
+decided -- решил (от decide)
+decidedly -- определённо, точно, бесспорно (не doubtless) !NEW!
+decimal -- десятичный, десятичная дробь
+decipher -- расшифровывать
+decision -- решение
+decisive -- решающий
+deck -- палуба
+declaration -- декларация
+declare -- декларировать
+declared -- Объявленный (TR!)
+decline -- опускаться, уменьшаться, убывать
+declined -- Отклоненный **c- (TR!)
+decorate -- украшать
+decoy -- западня, приманка; заманивать в ловушку d-
+decrease -- уменьшать, уменьшить
+decree -- декрет, указ; издавать декрет; постановлять
+decrepit -- ветхий, дряхлый
+dedicate -- посвящать, посвятить
+deduction -- вычитание, вычет, удержание, вывод, заключение (-ion)
+deed -- подвиг, дело
+deep -- глубокий
+deeper -- Глубже (TR!)
+deeply -- глубоко
+deer -- олень, лань
+default -- Неплатеж, невыполнение обязательств (TR!)
+defeat -- поражение
+defeated -- побеждённый !NEW!
+defect -- недостаток, недочет
+defective -- неисправный, недостаточный, неполноценный, дефективный
+defence -- оборона, защита
+defend -- защищать, оборонять
+defender -- защитник, чемпион (не champion)
+defense -- оборона !NEW!
+defensive -- оборонительный, оборона
+defiance -- неповиновение, пренебрежение
+defiant -- вызывающий, дерзкий
+deficiency -- недостаток, дефицит -y
+define -- определять, устанавливать
+defined -- Определенный (TR!)
+definite -- определенный, точный
+definitely -- Определенно (TR!)
+definition -- определение
+defy -- действовать наперекор
+degrade -- понижать, разжаловать
+degree -- степень, звание
+deity -- божество
+dejected -- удрученный, угнетенный
+delay -- отсрочка
+delayed -- отложен (от delay)
+delete -- Удалить (TR!)
+deliberate -- умышленный, обдуманный
+deliberately -- сознательно, обдуманно !NEW!
+delicacy -- деликатность, тонкость, нежность (красок); хрупкость, болезненность
+delicate -- изящный d-
+delicious -- восхитительный, прелестный, вкусный (d-)
+delight -- восхищение, восхищаться
+delighted -- восхищался (от delight)
+delightful -- восхитительный (не marvellous)
+delirium -- бред
+deliver -- доставлять, передавать
+deliverance -- освобождение, избавление
+delivered -- доставил (от deliver)
+delivery -- доставка
+deluge -- наводнение, ливень
+delusion -- заблуждение
+delve -- впадина, рытвина
+demand -- требовать
+demanded -- требовал (от demand)
+demolition -- уничтожение
+demonstrate -- демонстрировать
+demonstration -- демонстрация
+den -- берлога, притон
+dene -- долина, дюны
+denial -- отрицание, опровержение
+denied -- Отклоненный (TR!)
+denote -- означать, обозначать
+dense -- густой, плотный (не bushy)
+dentist -- зубной врач
+deny -- отрицать, отвергать
+depart -- отбывать, уезжать
+departed -- Отбыл (TR!)
+department -- отдел
+departments -- отделы, отделения (от department)
+departure -- отъезд, отправление
+depend -- зависеть
+dependant -- иждивенец
+depended -- Зависел (TR!)
+dependent -- зависимый, зависящий
+deplore -- сожалеть
+deploy -- развертывать
+deployment -- развертывание
+deposit -- взнос, вклад, залог, сдавать на хранение
+depression -- уныние, депрессия (эконом.)
+deprive -- лишать, отбирать
+depth -- глубина
+depths -- Глубины (TR!)
+deputy -- депутат, делегат
+derisive -- насмешливый, иронический (не ironical)
+derived -- Полученный (TR!)
+des -- Дес (TR!)
+descend -- спускаться
+descendant -- потомок
+descended -- Спускался (TR!)
+descent -- спуск, склон, десант, происхождение
+describe -- описывать
+description -- описание
+desert -- пустыня
+deserted -- брошенный, пустынный
+deserter -- дезертир
+deserts -- заслуги
+deserve -- заслуживать
+deserved -- заслуженный !NEW!
+deserves -- Заслуживает (TR!)
+design -- проектировать, спроектировать
+designed -- предназначенный, намеренный
+designer -- конструктор
+designs -- Проекты (TR!)
+desirable -- желательный
+desire -- желание
+desired -- Желательный (TR!)
+desk -- письменный стол
+desolate -- покинутый, заброшенный (-e)
+despair -- отчаяние
+desperate -- отчаянный, безнадежный
+desperately -- отчаянно !NEW!
+despise -- презирать -e
+despite -- несмотря на
+dessert -- десерт
+destination -- место назначения
+destitute -- (сильно) нуждающийся
+destroy -- разрушать, уничтожать
+destroyed -- Разрушенный (TR!)
+destroyer -- эскадренный миноносец
+destruction -- разрушение
+detach -- отделять, посылать (воен.)
+detached -- отдельный d-
+detachment -- отряд
+detail -- деталь
+detailed -- детальный, подробный
+detain -- задерживать, удерживать
+detect -- открывать, обнаруживать d-
+detected -- Обнаруженный (TR!)

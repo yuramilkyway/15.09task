@@ -1,0 +1,1000 @@
+detection -- открытие, обнаружение
+detective -- детектив(ный)
+detectives -- Детективы (TR!)
+detention -- задержание
+determination -- решимость, определение
+determine -- определять, устанавливать, разрешать
+determined -- решительный
+detest -- питать отвращение, ненавидеть
+detrimental -- приносящий ущерб (не destructive)
+develop -- развивать
+developed -- развил (от develop)
+developer -- развивающийся (о человеке) !NEW!
+development -- развитие
+device -- прибор, схема, проект, прием, устройство
+devil -- дьявол, сатана
+devote -- посвящать
+devoted -- преданный
+devotion -- преданность
+devour -- пожирать
+dew -- роса
+dexterity -- проворство, ловкость
+diagram -- диаграмма, схема
+dial -- набирать номер
+dialect -- Диалект (TR!)
+dialogue -- диалог
+diameter -- диаметр
+diamond -- алмаз, бриллиант
+diana -- Диана (TR!)
+diary -- дневник
+dick -- Дик (TR!)
+dictionary -- словарь
+dictum -- изречение, поговорка (не byword)
+did -- делал, действовал (от do)
+die -- штамповать, чеканить
+died -- умер, умерший (от die)
+diet -- диета
+differ -- различать
+difference -- разница, различие
+differences -- Различия (TR!)
+different -- другой, отличный от
+differently -- По-другому (TR!)
+differs -- Отличается (TR!)
+difficult -- трудный
+difficulty -- препятствие, затруднение
+dig -- копать
+digest -- переваривать, усваивать, краткое изложение
+digestion -- пищеварение
+digging -- Рытье -ing (TR!)
+dignified -- достойный
+dignity -- достоинство
+diligence -- прилежание
+dim -- тусклый, неясный, слабый (о зрении), туманный, смутный
+dime -- дайм (10 центов)
+dimly -- смутно (не vague) !NEW!
+din -- шум, долбить
+dine -- обедать
+dining -- обеденный
+dinner -- обед
+dip -- погружать
+diploma -- диплом, свидетельство
+dipper -- черпак, ковш
+direct -- прямой, руководить
+directed -- Направленный (TR!)
+direction -- направление
+directions -- Руководства(направления) (TR!)
+directly -- прямо, немедленно (d-)
+director -- режиссер
+directory -- справочник
+dirt -- грязь
+dirty -- грязный
+disable -- делать непригодным (не destroy)
+disabled -- искалеченный, выведенный из строя
+disadvantage -- неудобство
+disagreeable -- неприятный
+disappear -- исчезать, исчезнуть
+disappearance -- исчезновение !NEW!
+disappeared -- изчезнувший !NEW!
+disappearing -- Исчезновение -ing (TR!)
+disappoint -- разочаровывать
+disappointed -- разочарованный (от disappoint)
+disappointing -- печальный, неутешительный -ing
+disappointment -- разочарование
+disapproval -- неодобрение
+disarm -- обезоруживать, разоружать(ся)
+disarmament -- разоружение
+disaster -- бедствие, несчастье
+disastrous -- бедственный
+disbelief -- недоверие
+disc -- диск
+discern -- различать, видеть
+discharge -- разряжать
+discipline -- дисциплина, обучение
+disconnected -- разъединенный
+discontent -- недовольство (не unpleasure)
+discontented -- недовольный (не disagreeable)
+discourage -- обескураживать
+discover -- открывать, обнаруживать
+discovered -- обнаруженный !NEW!
+discovery -- открытие
+discreet -- осторожный, сдержанный
+discretion -- свобода действий; свободный выбор
+discuss -- обсуждать
+discussed -- обсуждал (от discuss)
+discussing -- обсуждающий, обсуждение (от discuss)
+discussion -- беседа
+disdain -- презирать, пренебрегать; презрение, пренебрежение (не neglect)
+disease -- болезнь *i-
+disgrace -- позор, немилость
+disgraceful -- позорный
+disguise -- переодеваться, маскироваться, скрывать; маскировка
+disguised -- замаскированный !NEW!
+disguises -- Маскировки (TR!)
+disgust -- отвращение, вызывать отвращение
+dish -- блюдо
+dishevelled -- растрепанный, взъерошенный
+dishonest -- нечестный
+disk -- Диск (TR!)
+dislike -- нелюбовь, неприязнь; не любить
+dismal -- мрачный, унылый (не gloomy, dreary)
+dismay -- ужас d-
+dismiss -- увольнять
+dismissed -- уволенный !NEW!
+dismount -- спешиваться
+disorder -- беспорядок
+disperse -- рассеиваться
+display -- показ, выставка
+displayed -- Показанный (TR!)
+displeased -- недовольный
+displeasure -- неудовольствие, недовольство, досада
+disposal -- вручение, право распоряжаться
+dispose -- располагать
+disposed -- склонный, расположенный, имеющийся под рукой (не inclined) !NEW!
+disposition -- характер
+dispute -- диспут, полемика, обсуждать
+disregard -- пренебрегать, пренебрежение
+dissolve -- растворять
+dissolved -- Распущенный (TR!)
+distance -- расстояние
+distant -- дальний, далекий
+distinct -- отдельный (не separate, detached)
+distinction -- различие
+distinctly -- отчетливо
+distinguish -- отличать, различать, разделять
+distinguished -- выдающийся, почетный
+distract -- отвлекать
+distracted -- Отвлеченный (TR!)
+distress -- горе, нужда; огорчать, расстраивать d-
+distressed -- Обеспокоенный (TR!)
+distribute -- распределять, распространять
+distribution -- распределение
+district -- район
+distrust -- недоверие, не доверять
+disturb -- нарушать, беспокоить d-
+disturbance -- нарушение
+disturbed -- взбудораженный *i- !NEW!
+ditch -- канава
+ditty -- песенка
+dive -- нырять
+dived -- Нырнул (TR!)
+diver -- водолаз
+diverse -- разный, различный (не various)
+divide -- делить, отделять
+divided -- Разделенный (TR!)
+divine -- божественный
+diving -- ныряние
+division -- деление
+dizzy -- головокружительный
+do -- делать, действовать, вспомогательный глагол
+dock -- док, пристань
+doctor -- доктор, врач
+doctrine -- Доктрина (TR!)
+document -- документ
+documentation -- Документация (TR!)
+dodge -- уловка, хитрость (не trick)
+doer -- исполнитель
+does -- делать, действовать, вспомогательный глагол (от do)
+dog -- собака
+doing -- делающий (от do)
+doll -- кукла
+dollar -- доллар
+dollars -- доллары (от dollar)
+dolls -- Куклы (TR!)
+domain -- Область (TR!)
+dome -- купол
+domestic -- домашний, внутренний
+domesticated -- Одомашненный (TR!)
+dominion -- владычество, владение, доминион
+donation -- денежное пожертвование
+done -- сделанный (от do)
+donkey -- осел
+doom -- обрекать
+door -- дверь
+doorway -- дверной проем !NEW!
+dormitory -- спальня
+dorothy -- Дороти (TR!)
+dos -- ДОС (TR!)
+dose -- доза, дозировать
+dot -- точка
+dots -- Точки (TR!)
+double -- двойной, на двоих
+doubloons -- Дублоны (TR!)
+doubly -- вдвое
+doubt -- сомнение, сомневаться
+doubted -- Подвергнутый сомнению (TR!)
+doubtful -- сомневающийся (полон сомнений)
+doubtless -- несомненно
+doubts -- Сомнения (TR!)
+dough -- тесто d-
+dove -- голубь
+down -- внизу, вниз
+downstairs -- вниз, внизу, на нижнем этаже
+downward -- вниз, книзу
+downy -- пушистый
+doze -- дремать
+dozen -- дюжина
+dr -- Доктор (TR!)
+draft -- чертеж, проект
+drag -- тащить d-
+dragged -- Тянул (TR!)
+dragon -- дракон !NEW!
+drain -- вытекание
+dramatic -- драматический
+drank -- (вы)пил (от drink)
+draught -- сквозняк, набросок, черновик
+draw -- рисовать
+drawer -- чертежник
+drawers -- кальсоны
+drawing -- протаскивание, вытягивание, рисование, чертеж
+drawn -- нарисованный (от draw)
+dread -- страшиться, страх
+dreadful -- ужасный (не terrible, horrible)
+dreadfully -- Ужасно (TR!)
+dream -- мечтать, видеть сны
+dreams -- мечты !NEW!
+dreamt -- мечтал (от dream)
+dreary -- мрачный, унылый, скучный (не gloomy)
+dress -- платье, одеваться
+dressed -- одетый
+dressing -- приправа
+dressmaker -- портниха
+drew -- рисовал (от draw)
+dried -- сушеный
+drift -- сносить, плыть по течению
+drill -- дрель, тренировать
+drink -- напиток, пить
+drinks -- напитки (от drink)
+drip -- капать
+drive -- водить машину, ехать на машине
+driver -- водитель, шофер
+driveway -- проезд !NEW!
+driving -- езда, вождение, движущий
+droop -- поникать
+drooping -- Свисающий -ing (TR!)
+drop -- капля, падать, ронять
+dropped -- потерянный, пролитый (не spoiled) !NEW!
+dropping -- сбрасывающий
+drops -- Снижения(капли) (TR!)
+drove -- водил машину, ехал на машине (от drive)
+drown -- тонуть, топить(ся), заглушать
+drowsy -- сонный, дремлющий (не asleep, sleepy)
+drug -- лекарство, наркотик
+drugstore -- аптека d-
+drum -- барабан
+drunk -- выпитый, пьяный (от drink)
+dry -- сухой
+dubious -- сомнительный
+duchess -- герцогиня
+duck -- утка
+ducked -- Увернулся (TR!)
+ducks -- Утки (TR!)
+dudley -- Дадли (TR!)
+due -- должный, обязанный
+dues -- сборы, взносы
+dug -- сиська, вымя !NEW!
+duke -- герцог
+dull -- скучный
+duly -- должным образом
+dumb -- немой, бессловесный, бестолковый (амер.)
+dummy -- манекен, макет
+dump -- разгружать
+dungeon -- Темница (TR!)
+duplicate -- дубликат, копия
+durable -- прочный
+duration -- продолжительность
+during -- во время
+dusk -- сумеречный, неясный, сумерки
+dust -- пыль, вытирать пыль
+duster -- тряпка, щетка
+dusty -- пыльный
+duty -- долг, обязанность, пошлина
+dwarf -- карлик, гном (миф.) (не gnome)
+dwell -- жить
+dwelling -- жилье -ing
+dwight -- Дуайт (TR!)
+dye -- красить, краска
+dyed -- крашенный (от dye)
+dying -- погибающий
+dysentery -- дизентерия
+each -- каждый
+eager -- нетерпеливый
+eagerly -- охотно (не willing)
+eagerness -- пыл, рвение, желание
+eagle -- орел
+ear -- ухо
+earl -- граф !NEW!
+earlier -- Ранее (TR!)
+earliest -- Самый ранний (TR!)
+early -- рано
+earn -- зарабатывать
+earnest -- серьезный e-
+earnestly -- Искренне (не sincerely) (TR!)
+earnestness -- Серьезность (не seriousness) (TR!)
+earth -- земля
+earthquake -- землетрясение
+ease -- покой, непринужденность e-
+easel -- мольберт
+easier -- Более легкий (TR!)
+easily -- легко
+east -- восток, восточный
+Easter -- пасха
+eastern -- восточный
+easy -- легкий, простой
+eat -- есть (принимать пищу)
+eaten -- eat (3 форма) (TR!)
+eater -- едок
+eating -- прием пищи, еда (-ing)
+ebb -- отлив, убывать
+echo -- эхо, отголосок
+economical -- бережливый, экономный
+edge -- край, точить
+edible -- съедобный
+edinburgh -- Эдинбург (TR!)
+edit -- редактировать
+edition -- издание
+editor -- редактор
+editorial -- редакционный, передовая статья (амер.)
+edmund -- Эдмунд (TR!)
+educated -- образованный ed-
+education -- образование
+educational -- образовательный, воспитательный
+edward -- Эдвард (TR!)
+eerie -- Жуткий *e- (TR!)
+effect -- действие, влияние
+effected -- Произведенный (не produced) *f- (TR!)
+effective -- действующий, успешный
+effects -- Эффекты (TR!)
+effectually -- Целесообразно (TR!)
+efficiency -- эффективность
+efficient -- эффективный
+effort -- усилие, напряжение
+egg -- яйцо
+eggs -- яйца (от egg)
+egypt -- Египет (TR!)
+eight -- восемь
+eighteen -- восемнадцать
+eighth -- восьмой
+eighty -- восемьдесят
+either -- или
+el -- Эль- (TR!)
+elaborate -- тщательно разработанный, подробный
+elapse -- проходить (о времени)
+elastic -- эластичный, упругий, резинка
+elated -- окрыленный
+elbow -- локоть
+elbows -- Локти (TR!)
+elder -- старший
+elderly -- пожилой
+eldest -- (самый) старший
+elect -- выбирать **e**
+election -- избрание, выборы
+electric -- электрический
+electricity -- электричество
+electronic -- электронный
+elegant -- изящный
+element -- элемент, стихия
+elementary -- элементарный
+elements -- Элементы (TR!)
+elephant -- слон
+elevate -- поднимать, возвышать
+elevated -- Поднятый (TR!)
+elevation -- Возвышение (TR!)
+elevator -- лифт
+eleven -- одиннадцать
+elf -- Эльф (TR!)
+eligible -- подходящий (не suitable)
+eliminate -- исключать, уничтожать, ликвидировать
+elinor -- Элеонор (TR!)
+eliza -- Элиза (TR!)
+elizabeth -- Элизабет (TR!)
+elliot -- Эллиот (TR!)
+eloise -- Элоиза (TR!)
+elongated -- Удлиненный (TR!)
+else -- еще, кроме
+elsewhere -- В другом месте (TR!)
+elton -- Эльтон (TR!)
+embark -- садиться на корабль
+embarrass -- смущать
+embarrassment -- Затруднение (TR!)
+embedded -- Вложенный (TR!)
+embrace -- обнимать, включать
+embroidery -- вышивка
+emerald -- изумруд
+emerge -- появляться, выясняться, возникать (не appear)
+emerged -- Появился (TR!)
+emergency -- крайняя необходимость e-
+eminent -- выдающийся
+emma -- Эмма (TR!)
+emotion -- возбуждение
+emotional -- эмоциональный
+emotions -- Эмоции (TR!)
+emperor -- император
+emphasis -- подчеркивание, ударение, выразительность
+empire -- империя, господство
+employ -- держать на работе, нанимать
+employed -- Используемый (TR!)
+employee -- служащий, работник
+employer -- наниматель
+employment -- служба, занятие (не occupation, profession)
+empty -- пустой
+emulation -- соревнование
+enable -- давать возможность, делать возможным
+enabled -- Позволил (TR!)
+enamel -- эмаль, глазурь
+encampment -- лагерь
+enclose -- окружать
+enclosed -- Приложенный (не embedded, attached) (TR!)
+encounter -- встретить, сталкиваться
+encourage -- ободрять, поощрять, подстрекать
+encouraged -- Поощренный (TR!)
+encouragement -- ободрение
+encyclopedia -- энциклопедия
+end -- конец
+endanger -- подвергать опасности
+endeavour -- попытка
+ended -- Законченный (TR!)
+ending -- окончание, завершение -ing
+endless -- бесконечный
+endlessly -- нескончаемо
+endurance -- выносливость, терпение (не tolerance)
+endure -- Вынести (TR!)
+enemies -- Враги (TR!)
+enemy -- враг, противник
+energy -- энергия, сила
+enforce -- принуждать, навязывать, проводить в жизнь
+engage -- нанимать, занимать, вовлекать (не employ)
+engaged -- занятый, помолвленный (от engage)
+engagement -- занятие *n-
+engine -- двигатель, мотор, машина
+enginedriver -- машинист
+engineer -- инженер
+engineering -- техника, машиностроение, махинации
+England -- Англия
+English -- английский язык, английский
+enhanced -- Увеличенный (TR!)
+enhancements -- Повышения (TR!)
+enjoy -- любить, получать удовольствие
+enjoyed -- получил удовольствие (от enjoy)
+enjoyment -- удовольствие, наслаждение, обладание
+enlarge -- увеличивать, расширять, распространяться **l****
+enlighten -- просвещать
+enormous -- громадный, ужасный
+enormously -- чрезвычайно
+enough -- достаточный
+enquired -- Спрашивал e- (TR!)
+enslave -- порабощать
+ensued -- Последовал (TR!)
+ensure -- обеспечивать, гарантировать
+entangled -- запутанный
+enter -- входить, поступать (enter)
+entered -- поступил (от enter)
+entering -- вступление e-
+enterprise -- предприятие, предприимчивость
+enterprising -- предприимчивый
+entertain -- развлекать, развлечь
+entertained -- Развлекал (TR!)
+entertainment -- развлечение
+enthusiasm -- энтузиазм, восторг
+enthusiastic -- восторженный
+entire -- полный, совершенный
+entirely -- совершенно, полностью, исключительно
+entitled -- Имеющий право (TR!)
+entrance -- вход
+entreaty -- мольба (prayment -- нет такого слова)
+entry -- вход
+enumerate -- перечислять
+envelope -- конверт
+envious -- завистливый (не jealous)
+environment -- окружающая среда
+envy -- зависть, завидовать
+epidemic -- эпидемический, эпидемия
+episode -- эпизод
+equal -- равный
+equality -- равенство, равноправие
+equally -- поровну, одинаково, в равной степени
+equator -- экватор
+equipment -- снаряжение, оборудование
+ER -- отделение (служба) экстренной медицинской помощи (Emergency Room) !NEW!
+era -- эра
+erase -- стирать (резинкой)
+ere -- До, перед, прежде чем; скорее чем (TR!)
+erect -- строить (не build)
+ernest -- Эрнест (TR!)
+ernie -- Ерни (TR!)
+err -- Допустить ошибку (TR!)
+errand -- поручение
+erring -- грешный, заблудший -ing
+erroneous -- ошибочный
+error -- ошибка
+errors -- Ошибки (TR!)
+escape -- избежать, избегать
+escort -- охрана (не guards)
+especially -- особенно
+essay -- очерк
+essence -- сущность
+essential -- обязательный, существенный, важный e-
+establish -- учреждать, создавать, утверждать
+established -- установленный
+establishment -- установление, учреждение, положение
+estate -- поместье, имущество, сословие
+esteem -- уважать, почитать, уважение (не regard)
+estimate -- оценка, проект, оценивать
+estimated -- предполагаемый
+et -- И (TR!)
+etc -- И т.д (TR!)
+eternal -- вечный (не forever)
+ethel -- Етел (TR!)
+eugene -- Юджин (TR!)
+Europe -- Европа
+European -- европейский
+evaluation -- оценка (не estimation)
+evaporate -- испаряться, выпаривать
+even -- даже
+evening -- вечер
+evenings -- вечерние (спектакли) e-
+event -- событие
+eventful -- полный событий, знаменательный
+events -- События (TR!)
+eventually -- в конечном счете, в конце концов
+ever -- когда-либо !NEW!
+every -- каждый
+everybody -- каждый, всякий, все
+everyday -- повседневный
+everyone -- все, каждый, всякий
+everything -- все
+everywhere -- всюду, везде
+evidence -- доказательство e-
+evident -- очевидный, ясный
+evidently -- очевидно
+evil -- зло, злой
+evolution -- Развитие (TR!)
+exact -- точный
+exactly -- точно, именно
+exam -- экзамен
+examination -- экзамен
+examine -- рассматривать, рассмотреть
+example -- пример, образец (не pattern)
+examples -- Примеры (TR!)
+exams -- экзамены (от exam)
+exasperation -- раздражение, ожесточение
+excavator -- экскаватор
+exceed -- превышать, превосходить
+exceedingly -- чрезвычайно
+excellent -- превосходный, отличный
+except -- исключая, кроме
+excepting -- за исключением -ing
+exception -- исключение
+excess -- избыток
+excessively -- Чрезмерно (TR!)
+exchange -- обмен, обменивать
+exchanged -- обменивал (от exchange)
+excite -- возбуждать, волновать
+excited -- взволнованный, возбуждённый
+excitedly -- Взволнованно (не thrilling) (TR!)
+excitement -- возбуждение
+exciting -- волнующий, великолепный
+exclaim -- восклицать
+exclamation -- восклицание
+exclude -- исключать
+exclusive -- исключительный, недоступный
+exclusively -- исключительно ***l-
+excursion -- экскурсия
+excuse -- извинять
+execute -- выполнять e-
+executed -- Выполненный (TR!)
+execution -- выполнение
+exercise -- упражнение
+exert -- напрягать(силы)
+exertion -- напряжение, усилие
+exhaust -- исчерпывать, истощать, выхлоп (тех.)
+exhausted -- изнуренный
+exhibit -- экспонат, показывать
+exhibited -- Показанный (не displayed) (TR!)
+exhibition -- выставка
+exist -- существовать, жить
+existence -- существование
+existing -- Существующий -ing (TR!)
+exists -- Существует (TR!)
+exit -- выход, выезд
+expanded -- Расширенный (не extended) (TR!)
+expansion -- расширение, распространение **pa-
+expect -- ожидать
+expectation -- ожидание
+expectations -- ожидания (от expectation)
+expected -- предполагаемый, ожидаемый
+expecting -- ожидающий (от expect)
+expedition -- экспедиция
+expel -- изгонять, исключать
+expelled -- Удаленный (TR!)
+expense -- расход
+expensive -- дорогой
+experience -- опыт
+experienced -- опытный
+experiment -- эксперимент
+experimental -- экспериментальный
+experiments -- Эксперименты (TR!)
+expert -- эксперт
+explain -- объяснять
+explained -- объяснил (от explain)
+explanation -- объяснение
+explicit -- ясный  e-
+explode -- взрывать, подрывать
+exploit -- эксплуатировать
+exploration -- исследование
+explore -- исследовать
+explosion -- взрыв, вспышка
+explosive -- взрывчатый, взрывчатое вещество -ve
+export -- экспорт, экспортировать
+expose -- выставлять, подвергать, разоблачать
+exposed -- Выставленный(подвергнутый) (TR!)
+exposure -- Подвергание (TR!)
+express -- экспресс, выражать
+expressing -- выраженный -ing
+expression -- выразительность, выражение
+expressive -- выразительный
+expulsion -- изгнание (не dejection)
+exquisite -- изысканный
+extend -- продлевать, растягивать
+extended -- растянутый
+extending -- Распространение(продление) (TR!)
+extension -- расширение
+extensive -- обширный
+extent -- протяжение
+exterior -- внешний, внешность, внешний вид
+external -- наружный
+extinct -- потухший (о вулкане), вымерший
+extra -- сверх (не above)
+extract -- удалять, извлекать; экстракт, выдержка (из книги)
+extraordinary -- необычный
+extreme -- чрезвычайный, крайность
+extremely -- крайне
+extremity -- конец, край, крайность, конечности
+eye -- глаз
+eyebrow -- бровь
+eyebrows -- брови !NEW!
+fable -- басня, сюжет
+face -- лицо
+faces -- выходит, стоит лицом (от face)
+facilitate -- облегчать
+facility -- легкость, способность, умение
+facing -- сидящий лицом (от face)
+fact -- сущность, факт
+fade -- увядать
+faded -- Исчез (TR!)
+fail -- недоставать, не хватать;  обмануть ожидания
+failed -- потерпел неудачу, не удалось (от fail)
+failing -- Неудача -ing (TR!)
+failure -- неудача
+faint -- слабый
+faintest -- малейший (от faint)
+faintly -- слабо !NEW!
+fair -- любезно, хорошо, справедливый
+fairfax -- Фаирфакс (TR!)
+fairly -- довольно (не rather)
+fairy -- волшебный
+faith -- вера
+faithful -- верный
+faithfully -- Искренне (TR!)
+faithless -- ненадежный
+fake -- подделка !NEW!
+falcon -- сокол
+fall -- падать
+fallen -- упавший !NEW!
+falling -- падение
+false -- ложный
+fame -- слава, известность
+familiar -- близкий (f-)
+family -- семья
+famine -- голод *a- (не hanger)
+famous -- известный
+fan -- болельщик, поклонник
+fancied -- Представлял себе (TR!)
+fancy -- воображать, представлять себе
+fang -- клык, корень зуба, зубец
+fangs -- Клыки (TR!)
+fanny -- Фанни (TR!)
+fantastic -- фантастический
+fantasy -- воображение
+far -- далеко
+farewell -- прощание; прощайте! до свидания!
+farm -- ферма
+farmer -- фермер
+farrier -- Кузнец (TR!)
+farther -- дальше
+fascinated -- очаровал (от fascinate)
+fashion -- мода
+fashionable -- модный
+fashioned -- Вылепленный (TR!)
+fast -- спешащий, сильно, быстро (fast)
+fasten -- прикреплять f-
+fastened -- Закрепленный (не attached) (TR!)
+faster -- быстрее
+fat -- жирный
+fatal -- фатальный
+fate -- судьба
+father -- папа
+fatigue -- усталость, утомлять(ся)
+fatty -- жирный !NEW!
+faucet -- водопроводный кран, вентиль
+fault -- вина, недостаток, ошибка
+faults -- Ошибки f- (TR!)
+favor -- Польза(покровительство) (TR!)
+favorite -- любимый !NEW!
+favour -- одолжение, услуга, польза
+favourable -- благоприятный
+favourite -- любимый
+fear -- страх, опасение, бояться, опасаться
+fearful -- страшный
+feasible -- осуществимый
+feast -- пир (f-)
+feat -- подвиг, ловкость, искусство
+feather -- предмет гордости, достижение
+feathers -- перья !NEW!
+feature -- особенность, характерная черта
+features -- Особенности (TR!)
+February -- февраль
+fed -- Кормивший(питаемый) (TR!)
+fee -- гонорар, платить гонорар
+feeble -- слабый, бледный
+feed -- кормить
+feeding -- питание f-
+feel -- чувствовать
+feeling -- чувство, чувствующий (от feel)
+feelings -- страсти (от feeling)
+feels -- Чувства (TR!)
+feet -- ноги, ступни
+fell -- упал (от fall)
+fellow -- человек, парень, приятель
+felt -- чувствовал (от feel)
+female -- женщина, самка
+females -- Женщины (TR!)
+feminine -- женский, женского рода (грам.)
+fence -- забор
+fencing -- ограждение -ing
+feral -- Дикий (не от слова wild) (TR!)
+ferment -- закваска, фермент; бродить (о вине, варенье)
+ferocious -- дикий
+ferocity -- свирепость
+ferry -- перевоз f-
+fertile -- плодородный
+fertilised -- Оплодотворенный (TR!)
+fertility -- Изобилие (не abundance) (TR!)
+fertilizer -- удобрение
+festival -- праздник, фестиваль
+fetch -- приносить f-
+fetched -- принесённый, достанный !NEW!
+fever -- жар, лихорадка
+few -- мало
+fickle -- непостоянный, изменчивый
+fiddlesticks -- вздор
+field -- поле
+fiend -- дьявол, злой дух (не devil)
+fierce -- свирепый
+fiery -- Пламенный (TR!)
+fifteen -- пятнадцать
+fifteenth -- пятнадцатый
+fifth -- пятый
+fifty -- пятьдесят
+fig -- Рис. (TR!)
+fight -- бороться, бой
+fighting -- бой, сражение
+figure -- фигура
+figured -- Изображенный (TR!)
+filament -- Нить (TR!)
+filch -- Украсть (не steal) (TR!)
+file -- картотека
+files -- Файлы (TR!)
+fill -- заполнить, наполнить
+filling -- заполнение, наполнение
+film -- фотопленка, фильм
+filter -- фильтр; фильтровать, просачиваться
+fin -- плавник
+final -- окончательный
+finalize -- завершать f-
+finally -- в конце концов
+financial -- финансовый
+find -- найти, находить
+finding -- находка, открытие, решение
+finds -- Находит (TR!)
+fine -- прекрасно, прекрасный
+fined -- штрафовал, оштрафованный (от fine)
+finest -- Самый прекрасный (TR!)
+finger -- палец
+finish -- кончать(ся), заканчивать(ся), конец, финиш
+finished -- закончил (от finish)
+finishing -- завершение
+fir -- пихта, ель
+fire -- огонь, пожар
+fireplace -- Камин (TR!)
+fires -- Огни(пожары) (TR!)
+firewood -- дрова
+fireworks -- фейерверк
+firing -- Увольнение(обстрел) -ing (TR!)
+firm -- фирма, твердый, твердо, крепко
+firmly -- твердо, решительно
+first -- первый
+fish -- рыба
+fisherman -- рыбак
+fishing -- рыбная ловля
+fishy -- подозрительный, сомнительный
+fist -- кулак
+fit -- подходить, соответствовать, устраивать
+fitness -- годность
+fits -- подходит (от fit)
+fitting -- примерка
+five -- пять
+fix -- починить, наладить, назначить
+fixed -- назначил (от fix)
+fixes -- Устанавливает (TR!)
+flabbergasted -- поражен, изумлен
+flag -- флаг
+flakes -- хлопья
+flame -- пламя (не blaze)
+flames -- Огонь (TR!)
+flaming -- Пылающий -ing (TR!)
+flank -- фланг
+flannel -- фланель
+flap -- развеваться, взмахивать (крыльями); взмах (крыльев), клапан
+flare -- вспыхивать; вспышка, осветительная ракета (не flash)
+flash -- вспышка, сверкать
+flashlight -- карманный фонарь !NEW!
+flashlights -- Прожектора (TR!)
+flask -- фляжка
+flat -- квартира, плоский
+flatter -- льстить
+flattering -- льстивый, лестный
+flavour -- вкус, аромат
+flaw -- изъян, недостаток (не lack)
+flax -- лен, льняное полотно
+flea -- блоха
+fled -- убегал, спасался бегством !NEW!
+flee -- бежать
+fleet -- флот
+flesh -- тело, плоть, мясо
+flew -- летал (от fly)
+flexible -- гибкий
+flight -- полет
+flinch -- отступать, вздрагивать
+fling -- бросать(ся), швырять(ся)
+flint -- Кремень (TR!)
+float -- плавать, поплавок
+flock -- стадо, стая
+flood -- наводнение
+floor -- пол, этаж; одолеть, смутить
+floored -- поставил в тупик, сразил (от floor)
+flora -- Флора (TR!)
+flour -- мука
+flourish -- процветать, размахивать; росчерк
+flourishing -- цветущий
+flow -- течение, поток, разливаться, течь
+flower -- цветок
+flowerbed -- клумба
+flowery -- цветистый
+flowing -- течение f-
+flu -- грипп
+fluently -- бегло, гладко
+fluid -- жидкий, жидкость
+flung -- бросал, швырял (не threw) !NEW!
+flurry -- будоражить
+flush -- (по)краснеть f-
+flutter -- махать
+fly -- летать
+flying -- летающий, летный (от fly)
+foal -- жеребенок
+foam -- пена
+focus -- фокусировать
+fodder -- фураж, корм
+foe -- враг
+fog -- туман
+foggy -- туманный
+fold -- складывать, сгибать, скрещивать (руки); складка
+folded -- складчатый (не crease) !NEW!
+folder -- папка (для дел), брошюра (амер.)
+folding -- складной -ing
+foliage -- листва
+folk -- народная
+folks -- Люди (TR!)
+follow -- следовать
+following -- следующий -ing
+follows -- Следует (TR!)
+folly -- глупость
+fond -- нежный
+food -- пища (не meal)
+fool -- дурак, глупец
+foolish -- глупый
+foot -- нога, фут
+football -- футбол
+footprint -- След (TR!)
+footprints -- следы !NEW!
+footstep -- звук шагов, след ноги
+for -- для, за, на
+forbes -- Форбес (TR!)
+forbid -- запрещать
+forbidden -- Запрещенным (TR!)
+force -- сила
+forced -- принудительный, принужденный
+forcible -- насильственный, убедительный
+ford -- брод, переходить вброд (не wade)
+fore -- передний
+foregoing -- Предшествующий (не preceding) -ing (TR!)
+foreground -- передний план
+forehead -- лоб
+foreign -- иностранный
+foreigner -- иностранец
+foreman -- мастер, старший рабочий, техник, прораб
+foremost -- передовой f-
+forepaws -- Передние лапы (TR!)
+foresight -- предвидение, предусмотрительность
+forest -- лес
+forester -- Лесник (TR!)
+forests -- Леса (TR!)
+forever -- вечно !NEW!
+foreword -- предисловие
+forge -- выдумывать
+forgery -- подделка, подлог
+forget -- забыть
+forgetful -- забывчивый
+forgive -- прощать
+forgot -- забыл (от forget)
+forgotten -- забытый (от forget)
+fork -- вилка
+form -- бланк, форма, формировать
+formal -- официальный, формальный
+formally -- формально
+formation -- образование, структура, формирование
+formed -- сформировавшийся, организованный
+former -- бывший
+formerly -- прежде, некогда
+formidable -- внушительный (не tremendous)
+forming -- Формирование (TR!)
+forms -- формы (от form)
+formula -- формула
+fort -- Форт (TR!)
+forth -- вперед, впредь, далее (f-)
+forthwith -- тотчас, немедленно f-
+fortitude -- стойкость, мужество
+fortnight -- две недели
+fortress -- крепость
+fortunate -- счастливый
+fortunately -- к счастью
+fortune -- удача, счастье
+fortunes -- Благосостояния (не welfares) (TR!)
+forty -- сорок
+forward -- передовой, вперед, впредь
+fossil -- ископаемое
+foster -- воспитывать
+fought -- сражался !NEW!
+foul -- загрязненный, грязный, бесчестный
+found -- нашел, найденный (от find)
+foundation -- основание
+fountain -- источник, фонтан
+four -- четыре
+fourteen -- четырнадцать
+fourteenth -- четырнадцатый
+fourth -- четвертый
+fowl -- птица (домашняя)
+fowls -- Домашние птицы (TR!)
+fox -- лиса
+fraction -- дробь, частица f-
+fracture -- перелом, излом; ломать
+fragile -- хрупкий
+fragment -- отрывок, обрывок
+frail -- хрупкий, хилый
+frame -- оправа, рамка
+frames -- оправы, рамки (от frame)
+framework -- каркас
+France -- Франция
+frank -- искренний, откровенный, открытый
+frankly -- откровенно
+frantic -- неистовый ******c
+frantically -- неистово !NEW!
+franz -- Франз (TR!)
+fraud -- обман, фальшивка
+fray -- шумная ссора, обтрепываться
+freakish -- капризный, причудливый
+free -- свободный
+freedom -- свобода f-
+freely -- свободно
+freeman -- полноправный гражданин !NEW!
+freeze -- замерзать
+freezing -- замерзание

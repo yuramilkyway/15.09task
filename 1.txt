@@ -1,0 +1,999 @@
+a -- неопределенный артикль
+abandon -- отказываться, покидать, прекращать
+abandoned -- заброшенный !NEW!
+abate -- уменьшить
+abbey -- Аббатство (TR!)
+abbreviation -- сокращение
+ABC -- алфавит, азбука, букварь, начатки, основы
+abide -- ждать, терпеть
+ability -- способность (-y не от слова capable)
+able -- способный (-e)
+aboard -- на корабле, на борту, в вагоне
+abode -- местопребывание, жилище (не lodge)
+abominable -- отвратительный, противный
+about -- о
+above -- над, выше, наверху
+abroad -- за границей
+abrupt -- резкий, внезапный, крутой, обрывистый
+abruptly -- внезапно, резко, грубо !NEW!
+absence -- отсутствие
+absent -- отсутствующий
+absolute -- совершенный, чистый
+absolutely -- абсолютно, совершенно
+absorb -- поглощать, всасывать, впитывать
+absorbed -- увлечённый чем-либо !NEW!
+absorption -- Поглощение (TR!)
+abstract -- отвлеченный, абстрактный
+absurd -- нелепый
+absurdity -- нелепость
+abundance -- богатство, изобилие
+abundant -- обильный
+acacia -- акация
+accent -- подчеркивать, произносить
+accept -- принимать
+accepted -- принятый
+access -- доступ, подход, доступность
+accessible -- доступный
+accident -- несчастный случай
+accidental -- случайный, нечаянный
+accidentally -- случайно, нечаянно
+acclaim -- провозглашать
+accommodate -- согласовывать, улаживать, примирять
+accommodation -- удобство, согласование
+accompany -- сопровождать
+accompanying -- сопровождающий
+accomplice -- сообщник
+accomplish -- выполнять
+accomplished -- Выполненный (TR!)
+accord -- согласие, гармония
+accordance -- согласованность, согласие, соответствие
+according -- согласно -ing
+accordingly -- согласно
+account -- счет, оценка, причина
+accounts -- Счета (TR!)
+accuracy -- точность, аккуратность
+accurate -- точный, правильный
+accusation -- обвинение
+accuse -- обвинять
+accused -- Обвиняемый (TR!)
+accustom -- приучать
+accustomed -- Приученный (TR!)
+ache -- боль a-
+achieve -- достигать, успешно выполнять a-
+achievement -- выполнение, достижение
+acid -- кислый, кислота (не sour)
+acknowledge -- признавать, вознаграждать
+acknowledged -- Подтвержденный (TR!)
+acorn -- желудь
+acquaintance -- знакомство, знакомый
+acquire -- приобретать
+acquired -- приобретённый !NEW!
+acquisition -- приобретение
+acquit -- оправдывать
+across -- через
+act -- акт, дело, действовать
+acted -- Действовал (TR!)
+acting -- временно исполняющий обязанности, игра
+action -- действие, поступок
+active -- активный
+actively -- активно, деятельно
+activity -- деятельность, активность
+actor -- актер
+actress -- актриса
+acts -- Действия (TR!)
+actual -- текущий, современный
+actually -- фактически, в настоящее время
+acute -- острый, проницательный
+adapt -- приспособить, переделать
+adapted -- Приспособленный (TR!)
+add -- добавлять, прибавлять
+addition -- прибавление, сложение
+additional -- дополнительный
+additions -- Дополнения (TR!)
+address -- адрес, обращение
+adept -- знаток, сторонник
+adequate -- достаточный, соответствующий
+adhere -- прилипать, приставать ( to) , приклеиваться, хвататься
+adjoining -- Смежный -ing (TR!)
+adjust -- регулировать, приспосабливать
+adjustment -- регулирование *d-
+administration -- администрация
+administrator -- администратор
+admirable -- замечательный (не wonderful)
+admiral -- адмирал
+admiration -- восхищение
+admire -- восхищаться
+admired -- восхищался (от admire)
+admiring -- Восхищающийся -ing (TR!)
+admission -- допуск, вход, прием
+admit -- допускать
+admittance -- впуск, доступ a-ce
+admitted -- Признанный(допущенный) (TR!)
+adopt -- принимать, присваивать
+adopted -- Принятый (TR!)
+adore -- обожать
+adorn -- украшать
+adrift -- по течению, по воле волн
+ads -- реклама
+adult -- взрослый
+adults -- взрослые (от adult)
+advance -- продвижение вперед, продвигать
+advanced -- передовой
+advancing -- Продвижение -ing (TR!)
+advantage -- преимущество, выгода
+advantages -- Преимущества (TR!)
+adventure -- рисковать, отваживаться
+adventurer -- искатель приключений, авантюрист
+adventurous -- отважный, предприимчивый (не undertaking)
+adversary -- противник
+adversity -- бедствие, несчастье
+advertise -- помещать объявление, рекламировать
+advertisement -- объявление, реклама
+advice -- cовет
+advise -- советовать
+advised -- Рекомендованный (TR!)
+advocate -- отстаивать, защищать
+aerial -- воздушный, антенна
+aeroplane -- самолет
+afar -- далеко, вдали
+affair -- дело, занятие
+affairs -- делишки !NEW!
+affect -- влиять, трогать, вредить
+affected -- пораженный
+affection -- привязанность, любовь
+affectionate -- любящий, нежный
+affectionately -- Нежно (TR!)
+affections -- Привязанности (TR!)
+affirmative -- утвердительный
+afford -- позволить себе
+afforded -- Предоставляемый *f- (TR!)
+affray -- пугать
+afore -- перед
+afraid -- испуганный
+afresh -- снова, опять
+after -- после
+afternoon -- время после полудня
+afterward -- Позже (TR!)
+afterwards -- впоследствии, позже
+again -- снова
+against -- против
+age -- век, возраст
+aged -- старый, в возрасте
+agency -- агентство
+agent -- деятель, исполнитель
+aggregate -- совокупность
+aggregated -- Соединенный (TR!)
+aggregation -- Скопление (TR!)
+agitated -- Взволнованный *g- (не thrilled) (TR!)
+agitation -- агитация
+agony -- мучение, сильная боль
+agree -- соглашаться
+agreeable -- приятный, милый
+agreed -- согласился (от agree)
+agreement -- согласие, соглашение
+agricultural -- сельскохозяйственный
+agriculture -- сельское хозяйство
+aha -- Ага (TR!)
+ahead -- вперед
+aid -- помощь
+aileen -- Эйлин (TR!)
+ailing -- больной -ing
+aim -- целиться, цель
+air -- воздушный, авиационный, проветривать
+airborne -- авиационный
+airliner -- лайнер
+airport -- аэропорт
+ajar -- приоткрытый
+alarm -- тревога, (вс)тревожить (alarm)
+alas -- Увы (TR!)
+albert -- Альберт (TR!)
+album -- альбом
+alec -- Алек (TR!)
+alert -- бдительный, проворный
+alexis -- Алексис (TR!)
+alfred -- Альфред (TR!)
+alias -- Псевдоним (TR!)
+aliases -- Псевдонимы (TR!)
+alibi -- Алиби (TR!)
+alibis -- Алиби (TR!)
+alight -- выходить, спускаться
+alignment -- выравнивание, линия
+alike -- похожий
+alive -- живой
+all -- все, весь
+allegiance -- преданность, верность
+allen -- Аллен (TR!)
+alley -- аллея, переулок
+allied -- союзный, родственный
+allocate -- предназначать
+allocation -- распределение, назначение
+allow -- разрешать, разрешить
+allowance -- дозволение, допущение (allowance)
+allowing -- Разрешение -ing (TR!)
+allows -- Позволяет (TR!)
+alloy -- примесь, сплав
+alluded -- Ссылался (TR!)
+ally -- союзник, соединять
+almond -- миндаль, миндалина
+almost -- почти, едва не (a-)
+aloft -- наверху, наверх
+alone -- один, одинокий
+along -- вдоль
+alongside -- рядом
+aloud -- громко, вслух
+alphabet -- алфавит, азбука
+already -- уже
+also -- тоже, также
+alter -- изменять
+alteration -- изменение, перемена
+altered -- Измененный (не changed) (TR!)
+alternate -- переменный
+alternative -- альтернатива, выбор
+although -- хотя
+altitude -- высота (не highness)
+altogether -- всего, в общем
+always -- всегда
+am -- (я) есть (от be)
+amateur -- любитель
+amazed -- изумлённый, поражённый (не wonder) !NEW!
+amazement -- удивление, изумление
+amazing -- Удивительный -ing (TR!)
+amber -- янтарь, янтарный
+ambiguous -- двусмысленный
+ambition -- честолюбие, желание
+ambitious -- честолюбивый
+ambulance -- полевой госпиталь, карета скорой помощи
+amends -- возмещение
+amiable -- любезный, милый
+amid -- между, посреди, среди !NEW!
+ammonia -- аммиак
+ammunition -- боеприпасы
+among -- среди (не midst)
+amongst -- Среди (TR!)
+amorous -- влюбленный, любовный
+amount -- количество, сумма, составлять (сумму)
+ample -- обширный, просторный
+amuse -- забавлять, развлекать
+amusement -- забава, развлечение
+amusing -- забавный, интересный
+amy -- Эми (TR!)
+an -- неопределенный артикль (перед гласным звуком)
+ana -- сборник изречений
+analogous -- Аналогичный (TR!)
+analyse -- анализировать, разбирать
+analysis -- анализ
+ancestor -- предок
+anchor -- якорь
+ancient -- древний
+and -- и, а
+anew -- снова, заново
+angel -- ангел
+angela -- Анжела (TR!)
+angeles -- Анхелес (TR!)
+anger -- гнев, злость
+angle -- угол, точка зрения
+angles -- Углы (TR!)
+angrily -- сердито !NEW!
+angry -- сердитый
+anguish -- страдание
+animal -- животное
+animated -- оживленный, анимированный
+ankle -- щиколотка, лодыжка
+anna -- Анна (TR!)
+anne -- Энн (TR!)
+annihilation -- уничтожение
+anniversary -- годовщина
+announce -- объявлять
+announced -- объявлял, объявленный (от announce)
+announcement -- объявление, сообщение
+annoy -- досаждать, надоедать
+annoyance -- Раздражение (TR!)
+annual -- годовой, ежегодный, ежегодник (не yearly)
+annually -- ежегодно
+anomaly -- аномалия
+anonymous -- анонимный
+another -- еще один, другой
+answer -- ответ, отвечать
+answered -- ответил (от answer)
+ant -- муравей
+antarctic -- антарктический
+anthony -- Энтони (TR!)
+anticipate -- предвидеть
+anticipated -- Ожидаемый (TR!)
+antidote -- противоядие
+antique -- древний (не ancient)
+antiquity -- древность
+antony -- Энтони (TR!)
+anvil -- наковальня
+anxiety -- тревога, беспокойство
+anxious -- беспокойный *n-
+anxiously -- тревожно !NEW!
+anyhow -- во всяком случае
+anyone -- любой, всякий( утв предлож), кто-нибудь, никто (в отриц предлож) !NEW!
+anyway -- во что бы то ни стало
+anywhere -- где-нибудь !NEW!
+apart -- в стороне, отдельно (не aside)
+apartment -- квартира
+ape -- обезьяна (человекообразная)
+apes -- Обезьяны (TR!)
+apex -- верхушка, вершина (не peak)
+apiece -- за штуку, поштучно
+apologies -- извинения (от apology)
+apologize -- извиняться
+apology -- извинение
+app -- Приложение (TR!)
+appalling -- ужасный, плачевный -ing
+apparatus -- аппарат
+apparel -- одевать, наряжать
+apparent -- видимый, очевидный
+apparently -- явно, очевидно
+appeal -- апелляция, апеллировать (юр.), обращаться
+appear -- появляться
+appearance -- появление, внешность
+appeared -- появился (от appear)
+appears -- Появляется (TR!)
+appendix -- приложение, аппендикс (анат.)
+appetite -- аппетит, охота, желание
+applause -- аплодисменты
+apple -- яблоко
+apples -- яблоки (от apple)
+applet -- Апплет (TR!)
+application -- заявление, применение
+applications -- Заявления(применения) (TR!)
+applied -- прикладной
+apply -- обращаться, применять
+appointed -- Назначенный (TR!)
+appointment -- условленная встреча *pp*...
+appreciate -- оценивать
+approach -- приближаться, подступ
+approbation -- одобрение (не approvement)
+appropriate -- подходящий, соответствующий
+approval -- одобрение
+approve -- одобрять
+approximate -- приблизительный
+approximately -- приблизительно
+apricot -- абрикос
+April -- апрель
+apron -- фартук
+apt -- подходящий, уместный, склонный
+arable -- пахотный
+arbitrary -- произвольный
+arbour -- беседка, дерево, ось
+arc -- дуга (мат.)
+arcadia -- Аркадия (TR!)
+arch -- арка, дуга
+archaic -- устарелый, архаический
+arched -- Арочный (TR!)
+archie -- Арчи (TR!)
+archipelago -- Архипелаг (TR!)
+architect -- архитектор
+architecture -- архитектура
+arctic -- полярный, арктический
+ardent -- пылкий
+ardour -- жар, пыл, рвение
+arduous -- тяжелый, напряженный
+are -- есть (от be)
+area -- площадь, район
+argue -- спорить
+argument -- спор
+arguments -- Аргументы(споры) (TR!)
+arid -- сухой, засушливый
+arise -- возникать, появляться
+arithmetic -- арифметика
+arm -- рука
+armament -- вооружение
+armed -- вооруженный
+armies -- Армии (TR!)
+armour -- броня
+arms -- оружие
+army -- армия
+arose -- возник, появился !NEW!
+around -- вокруг, по
+arouse -- будить, пробуждать
+aroused -- разбуженный !NEW!
+arrange -- устраивать, договариваться
+arrangement -- договоренность
+arrangements -- Меры (не measurements) (TR!)
+array -- массив, множество, наряжать, украшать
+arrest -- арестовывать, арест
+arrested -- Арестованный (TR!)
+arrival -- прибытие
+arrive -- приезжать
+arrived -- приехал, прибыл (от arrive)
+arriving -- прибывающий (-ing)
+arrow -- стрела
+arson -- поджог
+art -- искусство
+artful -- хитрый, ловкий
+article -- статья, предмет, изделие
+articles -- предметы (от article)
+artificial -- искусственный
+artillery -- артиллерия
+artist -- художник
+artistic -- художественный
+arts -- Искусства (TR!)
+as -- как, так, в то время как
+asa -- Аса (TR!)
+ascent -- восхождение, подъем a-
+ascertain -- установить, удостовериться
+ascertained -- Установленный (TR!)
+ash -- ясень
+ashamed -- пристыженный !NEW!
+ashes -- Пепел (TR!)
+ashore -- на берег
+asia -- Азия (TR!)
+aside -- в сторону
+ask -- просить, спрашивать
+asked -- просил, требовал (от ask)
+asking -- спрашивающий, просящий
+asks -- спрашивает (от ask)
+asleep -- спящий (не sleepy)
+aspect -- взгляд, точка зрения
+ass -- осел (библ.)
+assassination -- убийство
+assault -- нападать, нападение
+assemble -- созывать
+assembled -- Собранный (TR!)
+assembly -- собрание, ассамблея
+asserted -- Утвержденный (не attested) (TR!)
+asset -- имущество
+assign -- назначать
+assigned -- Назначенный (TR!)
+assignment -- назначение
+assist -- помочь, помогать
+assistance -- помощь
+assistant -- помощник
+assisted -- Помогал (TR!)
+associate -- соединять, присоединять
+association -- ассоциация, соединение
+assortment -- выбор, ассортимент
+assume -- принимать на себя
+assumed -- Принятый (не adopted) (TR!)
+assumption -- предположение
+assurance -- заверение, уверенность
+assure -- уверять, обеспечивать
+assured -- уверенный, застрахованный !NEW!
+asterisk -- звездочка
+astonished -- удивленный !NEW!
+astonishing -- Удивительный -ing (TR!)
+astonishment -- удивление, изумление
+astronomy -- астрономия
+at -- в, у
+ate -- ел, съел (от eat)
+athlete -- спортсмен, атлет
+athletics -- атлетика
+athwart -- через, вопреки (не through)
+atlas -- атлас
+atmosphere -- атмосфера
+atmospheric -- атмосферный
+atom -- атом
+attach -- придавать
+attached -- Приложенный (не embedded) (TR!)
+attachment -- привязанность, прикрепление
+attack -- нападение, наступать
+attacked -- Атакованный (TR!)
+attacks -- Нападения (TR!)
+attempt -- пробовать, пытаться, попытка
+attempting -- Попытка -ing (TR!)
+attempts -- Попытки (TR!)
+attend -- посещать, обслуживать
+attendance -- присутствие, аудитория
+attendant -- служитель, слуга
+attendants -- Дежурные (TR!)
+attended -- обслуженный, обслужил (от attend)
+attending -- Посещение(сопровождение) -ing (TR!)
+attention -- внимание
+attentions -- Внимание (TR!)
+attentive -- внимательный, заботливый
+attest -- удостоверять
+attic -- чердак
+attire -- украшение, наряд
+attitude -- позиция, отношение, поза
+attorney -- адвокат, поверенный (не advocate)
+attract -- привлекать
+attraction -- привлекательность, аттракцион
+attractive -- привлекательный
+attribute -- приписывать
+attributed -- Приписанный (TR!)
+auction -- аукцион
+audacity -- отвага, нахальство
+audible -- слышный, слышимый
+audience -- публика
+auditorium -- зрительный зал
+August -- август
+aunt -- тетя
+authentic -- подлинный
+author -- автор
+authoritative -- авторитетный
+authorities -- Власти (TR!)
+authority -- власть, полномочие, управление
+authorize -- санкционировать
+authors -- Авторы (TR!)
+auto -- автомобиль
+autobiography -- автобиография
+autograph -- Автограф (TR!)
+automatic -- автоматический
+automatically -- автоматически
+automobile -- автомобиль
+autumn -- осень
+auxiliary -- вспомогательный, дополнительный
+available -- доступный
+avalanche -- снежный обвал, лавина
+ave -- прощание
+avenge -- (ото)мстить
+avenue -- проспект
+average -- средний
+aversion -- отвращение
+avoid -- избегать, избежать
+await -- ждать
+awake -- бодрствующий
+awakened -- Пробужденный (TR!)
+aware -- сознающий
+away -- прочь
+awe -- (благоговейный) страх
+awestruck -- пораженный
+awful -- ужасный
+awfully -- ужасно, очень (разг.), крайне
+awhile -- некоторое время
+awkward -- неуклюжий
+awoke -- будил *w- !NEW!
+axis -- ось
+ay -- Да (TR!)
+aye -- Утвердительный ответ, положительный ответ (не yes) (TR!)
+bab -- Бэб (TR!)
+babble -- бормотание, болтовня b-
+baby -- ребенок
+back -- спина, назад
+backed -- Поддержанный (TR!)
+background -- фон, задний план
+backs -- Задние части b- (TR!)
+backup -- Резервный *a- (TR!)
+backward -- назад, обратно, наоборот
+backwards -- Назад (TR!)
+bacon -- бекон
+bad -- плохой
+bade -- Предлагал (TR!)
+badge -- знак, символ, эмблема
+badger -- барсук, травить
+badly -- сильно, плохо
+baffle -- озадачивать, мешать
+bag -- сумка
+bagful -- мешок b-
+baggage -- багаж b-
+bags -- сумки, багаж (от bag)
+bail -- поручительство
+bait -- приманка
+baker -- пекарь, булочник
+bakery -- пекарня
+balance -- равновесие
+balanced -- уравновешенный
+balcony -- балкон
+bald -- лысый, оголенный
+ball -- мяч
+ballast -- балласт, опыт, убеждения
+ballet -- балет
+balloon -- воздушный шар
+balloons -- Воздушные шары (TR!)
+balmy -- душистый, нежный, целебный
+bamboo -- бамбук
+ban -- запрещать
+banana -- банан
+bananas -- бананы (от banana)
+band -- лента, оркестр, ансамбль (музыкальный)
+bandage -- бинт, повязка, перевязывать, бинтовать
+bands -- ансамбли (от band)
+bandy -- перебрасываться, хоккей, клюшка
+bang -- ударять, хлопать (дверью и т.п.)
+banged -- ударенный !NEW!
+banisters -- перила (лестницы)
+bank -- банк
+banner -- знамя
+banquet -- банкет
+bar -- бар
+barbara -- Барбара (TR!)
+barbed -- колючий, ядовитый
+bare -- голый, бедный, простой
+barefooted -- босой
+barely -- только, едва (b-)
+bargain -- сделка
+barge -- баржа
+bark -- кора дерева
+barley -- ячмень
+barn -- амбар
+barnabas -- Барнабас (TR!)
+barnacle -- Моллюск (TR!)
+baron -- Барон (TR!)
+barrel -- баррель
+barren -- бесплодный, неплодородный
+barrier -- барьер, преграда
+barrow -- носилки
+bars -- Бруски(бары) (TR!)
+barton -- имение, поместье, усадьба (не estate) !NEW!
+base -- основа
+baseball -- бейсбол
+based -- Основанный (TR!)
+basement -- основание
+basic -- основной b-
+basically -- в основном
+basin -- бассейн b-
+basis -- основа, основание
+basket -- корзина
+bass -- бас, басовый
+bat -- бить
+batch -- выпечка, партия, группа
+bates -- Убавляет (TR!)
+bath -- ванна
+bathe -- купаться
+bathing -- купание, купальный
+bathroom -- ванная комната
+battery -- аккумулятор
+battle -- бой, сражение
+bay -- бухта, залив
+be -- быть
+beach -- пляж
+beacon -- сигнальный огонь, маяк
+beagle -- Гончая (TR!)
+beak -- клюв
+beaker -- кубок, чаша (не rummer)
+beam -- сиять, излучать (свет)
+beamed -- Сиял (TR!)
+beaming -- Сияющий (от слова beam) (TR!)
+beams -- Лучи (TR!)
+bean -- боб
+beans -- фасоль
+bear -- медведь, спекулянт
+bearable -- терпимый, сносный b-
+beard -- борода
+bearer -- носитель, податель, предъявитель
+bearing -- Отношение(поведение) -ing (TR!)
+bears -- Медведи (TR!)
+beast -- зверь, животное
+beastly -- противный (разг.) -- от слова ЗВЕРЬ!!!
+beasts -- звери !NEW!
+beat -- ударить, бить
+beaten -- битый
+beating -- поражение b-
+beau -- кавалер, поклонник
+beautiful -- красивый
+beautifully -- красиво, прекрасно
+beauty -- красота, косметический
+became -- становился, стал (от become)
+because -- потому что
+beck -- кивок, приветствие
+become -- становиться
+becomes -- становится (от become)
+becoming -- подобающий, приличествующий, соответственный, идущий (к лицу) (не eligible, suitable) -ing
+bed -- постель
+bedding -- спальные принадлежности (bedding)
+bedroom -- спальня
+beds -- Кровати (TR!)
+bedside -- постель
+bee -- пчела
+beech -- бук
+beef -- говядина
+beehive -- улей
+been -- быть (от be)
+beer -- пиво
+bees -- Пчелы (TR!)
+beetle -- трамбовать, дробить камни
+beetroot -- красная свекла
+before -- перед, до того как
+beforehand -- заранее
+beg -- просить, умолять
+began -- начинал, начал (от begin)
+beggar -- нищий
+begin -- начинать(ся)
+beginner -- новичок (не newcomer)
+beginning -- начало
+begins -- начинается (от begin)
+begun -- Начатый (TR!)
+behalf -- Защита (TR!)
+behave -- вести себя
+behaved -- Вел себя (TR!)
+behaviour -- поведение
+beheld -- Созерцал (TR!)
+behind -- позади
+behold -- Созерцать (TR!)
+being -- будучи (от be)
+beings -- Существа (TR!)
+belfry -- колокольня
+belief -- вера, доверие
+believe -- верить
+believed -- верил, полагал (от believe)
+believes -- Верит (TR!)
+believing -- Вера -ing (TR!)
+bell -- звонок (b-)
+bella -- Белла (TR!)
+bellamy -- Беллами (TR!)
+bellow -- мычание, греметь, громыхать (не rattle)
+belly -- живот, аппетит
+belong -- принадлежать
+belonged -- принадлежащий !NEW!
+belongings -- вещи, пожитки
+beloved -- любимый
+below -- ниже, внизу
+belt -- пояс, ремень
+ben -- Бен (TR!)
+bench -- скамейка
+bend -- гнуться, изгибаться
+bending -- Изгиб b- (TR!)
+beneath -- под, ниже, внизу
+benefit -- благо, польза
+bennet -- Беннет (TR!)
+bent -- склонность, наклонность
+berenice -- Беренис (TR!)
+berries -- ягоды (от berry)
+berth -- койка, спальное место
+bertram -- Бертрам (TR!)
+beset -- окружать
+beside -- рядом, около
+besides -- кроме, кроме того
+best -- наилучший
+bestowed -- Подаренный (TR!)
+bet -- держать пари, пари
+beth -- Бет (TR!)
+betray -- предавать
+betrayed -- Преданный (от слова предательство) (TR!)
+better -- лучше
+betty -- Бетти (TR!)
+between -- между
+beverley -- Беверлей (TR!)
+bewail -- оплакивать, скорбеть
+beware -- осторожно *e-
+bewildered -- пораженный, изумленный b-
+beyond -- далеко, вдали, на расстоянии, вне, сверх
+Bible -- библия
+bicycle -- велосипед
+bicyclelist -- велосипедист
+bid -- Предложение (TR!)
+bidding -- понижение цены -ing
+big -- большой
+bigger -- Больший (TR!)
+bike -- велосипед
+bikes -- Велосипеды (TR!)
+bill -- счет, законопроект
+billion -- биллион, миллиард (амер.)
+billy -- Билли (TR!)
+bin -- бункер !NEW!
+binary -- Набор из двух предметов (TR!)
+bind -- связывать (не link)
+binding -- переплет -ing
+bingo -- Лото (TR!)
+biology -- биология
+birch -- береза, розга
+bird -- птица
+birth -- рождение
+birthday -- день рождения
+biscuit -- сухое печенье
+bishop -- епископ, слон (шахм.)
+bit -- кусочек, немного
+bite -- кусаться
+biting -- острый, резкий b-ing
+bits -- куски !NEW!
+bitter -- горький, мучительный
+bitterly -- горько, сильно
+blab -- болтун, болтать (не от слова chat)
+black -- черный
+blackbird -- черный дрозд
+blacken -- чернить, чернеть
+blackened -- Почерневший (TR!)
+bladders -- Пузыри (TR!)
+blade -- лезвие
+blades -- Лезвия (TR!)
+blake -- Блак (TR!)
+blame -- считать виноватым, вина, упрек, порицание (b-)
+blank -- пустой, чистый b-
+blanket -- одеяло
+blast -- взрыв, взрывать, разрушать
+blaze -- пламя, пылать, гореть (не flame)
+blazing -- Сверкание -ing (TR!)
+bleach -- белить (ткань)
+bleeding -- Кровотечение (TR!)
+blend -- смешивать, смесь
+bless -- благословлять
+blessed -- благословлённый !NEW!
+blessing -- благословение -ing
+blew -- дул !NEW!
+blind -- слепой
+blink -- мерцание, отблеск, блеснуть, моргать b-
+blinked -- Мигал (TR!)
+bliss -- блаженство, счастье
+blizzard -- метель, пурга
+blob -- капля, комочек (не drop)
+blobs -- Капли (не drops) (TR!)
+block -- блок, квартал
+blockade -- блокада
+blocked -- Блокированный (TR!)
+blocks -- кварталы (от block)
+blond -- белокурый
+blonde -- блондин
+blood -- кровь
+bloody -- кровавый
+bloom -- цветение
+blossom -- цветок (на деревьях, кустах), расцветать
+blot -- клякса, пятно, промокать
+blouse -- блуза
+blow -- дуть
+blown -- Сдутый (TR!)
+blue -- синий
+blunt -- притуплять
+blush -- (по)краснеть; краска стыда, смущения b-
+board -- садиться на пароход, самолет; доска
+boarding -- посадка (самолёта) -ing
+boast -- хвастовство, хвастать
+boat -- лодка, пароход
+boats -- лодки !NEW!
+bodies -- Органы(тела) (TR!)
+bodily -- лично, сам, собственной персоной (не myself)
+body -- тело
+bog -- трясина
+boil -- кипятить, кипеть
+boiled -- вареный, кипяченый
+boiler -- котел
+boisterous -- неистовый, шумный
+bold -- смелый (не dare)
+boldly -- Смело (TR!)
+bolt -- молния
+bomb -- бомба, бомбить
+bondage -- рабство, зависимость (не slavery)
+bone -- кость
+bones -- кости !NEW!
+bonfire -- костер
+bonnet -- капор, дамская шляпа
+bonus -- премия
+book -- книга, покупать (билет)
+bookcase -- книжный шкаф
+booking -- продажа билетов -ing
+booklet -- брошюра, буклет
+books -- книги (от book)
+bookshelf -- книжная полка
+boost -- повышение, повышать
+boot -- ботинок, сапог
+booth -- кабинка
+boots -- ботинки, сапоги (от boot)
+booty -- награбленное добро, добыча
+border -- граница
+bore -- скука
+boring -- скучный
+born -- рожденный
+borne -- ограниченный, с узким кругозором, узколобый, закостенелый (TR!)
+borrow -- брать в долг
+borrowed -- брал в долг, взятый в долг (от borrow)
+bosom -- грудь (не chest)
+boss -- начальник
+both -- оба
+bother -- беспокойство, хлопоты; источник беспокойства
+bottle -- бутылка
+bottles -- бутылки (от bottle)
+bottom -- дно, донышко
+bough -- ветвь, сук
+bought -- купил, купленный (от buy)
+boulevard -- бульвар
+bounce -- отскакивать
+bound -- непременный, обязательный
+boundary -- граница *o-
+boundless -- безграничный
+bounds -- граница, ограничение (от bound)
+bout -- черед, круг
+bow -- кланяться, сгибаться
+bowed -- Поклонился (TR!)
+bowl -- кубок, чаша
+box -- ящик, коробка, ложа (театр.)
+boxes -- ложи (от box)
+boxing -- бокс
+boy -- мальчик, юноша
+brace -- связывать, скреплять (не clamp)
+braces -- подтяжки
+bracket -- скобка, подпорка, заключать в скобки
+bradley -- Брадлей (TR!)
+brain -- мозг
+brake -- тормоз
+brakes -- тормоза (от brake)
+branch -- ветвь, отрасль
+branches -- ветки !NEW!
+brand -- головня, клеймо, фабричная марка, сорт, клеймить
+brandy -- коньяк, бренди
+brass -- установить
+brave -- храбрый, смелый
+bravely -- смело
+bravery -- храбрость, смелость *r-
+brawl -- уличный скандал
+breach -- брешь, пробивать брешь
+bread -- хлеб
+breadth -- ширина, полотнище
+break -- ломать
+breakfast -- завтрак
+breast -- грудь
+breath -- дыхание
+breathe -- дышать
+breathing -- дыхание
+breathless -- запыхавшийся
+bred -- Разводимый (TR!)
+breeches -- брюки, бриджи (не trousers)
+breed -- порода
+breeder -- производитель
+breeding -- разведение
+breeds -- Породы (TR!)
+breeze -- легкий ветер
+brew -- затевать, надвигаться
+brewing -- затевающий, надвигающийся (от brew)
+brick -- кирпич
+bricks -- кубики (детские)
+bride -- невеста
+bridge -- мост
+bridle -- узда, повод, взнуздывать
+brief -- короткий, сводка, резюме
+briefcase -- портфель
+briefly -- кратко, сжато
+brigade -- бригада
+bright -- ясный
+brightly -- Ярко (TR!)
+brilliance -- блеск, великолепие, яркость (не brightness)
+brilliant -- блестящий, брильянт
+brim -- край, поля (шляпы)
+bring -- приносить, приводить
+brings -- Приносит (TR!)
+brisk -- живой, проворный b-
+Britain -- Британия
+British -- британский
+brittle -- хрупкий, ломкий (не fragile)
+broad -- широкий
+broadcast -- передача по радио
+broadcasting -- радиовещание
+broadly -- широко
+broke -- (с)ломал, сломанный (от break)
+broken -- разбитый, сломанный, нарушенный, ломаный (о языке)
+bronze -- бронзовый
+brooch -- брошь
+brood -- высиживать (цыплят), выводок
+brook -- ручей
+broom -- метла, мести
+brother -- брат
+brought -- принес, принесенный (от bring)
+brow -- бровь
+brown -- коричневый
+brows -- Брови (TR!)
+bruise -- ушибать, синяк, ушиб
+bruises -- Ушибы (TR!)
+brush -- щетка, чистить щеткой
+brushed -- Чистил (не cleaned) (TR!)
+brutal -- грубый, жестокий
+brutally -- грубо, жестоко
+brute -- зверь, скотина (не beast)
+bubble -- пузырь
+bucket -- ведро
+buckwheat -- гречиха
+bud -- почка, бутон, давать почки, пускать ростки
+budge -- шевелиться
+buds -- почка, расцветать !NEW!
+buffalo -- буйвол
+buffer -- Буфер (TR!)
+bug -- клоп, насекомое, жук (амер.)
+bugs -- Ошибки(дефекты) (TR!)
+build -- строить
+builder -- строитель
+building -- здание
+builds -- Строит (TR!)
+built -- строил, построенный (от build)
+bulb -- луковица, электрическая лампочка
+bulk -- груз, величина
+bulky -- громоздкий
+bull -- бык
+bullet -- пуля
+bully -- запугивать (не scare)
+bum -- бездельник, бродяга
+bump -- удар, толчок, шишка, ударять(ся), стукаться **m*
+bun -- булочка
+bunch -- связка, пучок
+bundle -- узел, пакет
+bungalow -- (одноэтажная) дача, бунгало
+buoy -- буй, бакен
+burden -- груз, бремя
+bureau -- бюро, контора
+burglary -- кража со взломом
+burial -- похороны
+buried -- спрятанный, похороненный !NEW!
+burlap -- холст, мешковина (не canvas)
+burly -- крепкий !NEW!
+burn -- гореть, жечь, сжигать
+burst -- заливаться, разражаться
